@@ -1,0 +1,1765 @@
+_id,year,patcnty,agegrp,count
+1,2008,Alameda,Total Births,20470
+2,2008,Alameda,Older Mothers (35 years old or older),4714
+3,2008,Alameda,Teen Mothers (15 years old to 19 years old),1319
+4,2008,Alameda,Typical Aged Mothers (20 years old to 34 years old),14422
+5,2008,Butte,Total Births,2464
+6,2008,Butte,Older Mothers (35 years old or older),254
+7,2008,Butte,Teen Mothers (15 years old to 19 years old),278
+8,2008,Butte,Typical Aged Mothers (20 years old to 34 years old),1928
+9,2008,Calaveras,Total Births,353
+10,2008,Calaveras,Older Mothers (35 years old or older),41
+11,2008,Calaveras,Teen Mothers (15 years old to 19 years old),29
+12,2008,Calaveras,Typical Aged Mothers (20 years old to 34 years old),283
+13,2008,Colusa,Total Births,365
+14,2008,Colusa,Older Mothers (35 years old or older),44
+15,2008,Colusa,Teen Mothers (15 years old to 19 years old),45
+16,2008,Colusa,Typical Aged Mothers (20 years old to 34 years old),276
+17,2008,Contra Costa,Total Births,12705
+18,2008,Contra Costa,Older Mothers (35 years old or older),2745
+19,2008,Contra Costa,Teen Mothers (15 years old to 19 years old),823
+20,2008,Contra Costa,Typical Aged Mothers (20 years old to 34 years old),9131
+21,2008,Del Norte,Total Births,300
+22,2008,Del Norte,Older Mothers (35 years old or older),11
+23,2008,Del Norte,Teen Mothers (15 years old to 19 years old),41
+24,2008,Del Norte,Typical Aged Mothers (20 years old to 34 years old),247
+25,2008,El Dorado,Total Births,1728
+26,2008,El Dorado,Older Mothers (35 years old or older),333
+27,2008,El Dorado,Teen Mothers (15 years old to 19 years old),110
+28,2008,El Dorado,Typical Aged Mothers (20 years old to 34 years old),1285
+29,2008,Fresno,Total Births,16517
+30,2008,Fresno,Older Mothers (35 years old or older),1803
+31,2008,Fresno,Teen Mothers (15 years old to 19 years old),2239
+32,2008,Fresno,Typical Aged Mothers (20 years old to 34 years old),12440
+33,2008,Glenn,Total Births,462
+34,2008,Glenn,Older Mothers (35 years old or older),53
+35,2008,Glenn,Teen Mothers (15 years old to 19 years old),54
+36,2008,Glenn,Typical Aged Mothers (20 years old to 34 years old),355
+37,2008,Humboldt,Total Births,1510
+38,2008,Humboldt,Older Mothers (35 years old or older),179
+39,2008,Humboldt,Teen Mothers (15 years old to 19 years old),141
+40,2008,Humboldt,Typical Aged Mothers (20 years old to 34 years old),1189
+41,2008,Imperial,Total Births,3172
+42,2008,Imperial,Older Mothers (35 years old or older),347
+43,2008,Imperial,Teen Mothers (15 years old to 19 years old),454
+44,2008,Imperial,Typical Aged Mothers (20 years old to 34 years old),2365
+45,2008,Inyo,Total Births,227
+46,2008,Inyo,Older Mothers (35 years old or older),26
+47,2008,Inyo,Teen Mothers (15 years old to 19 years old),24
+48,2008,Inyo,Typical Aged Mothers (20 years old to 34 years old),177
+49,2008,Kern,Total Births,14957
+50,2008,Kern,Older Mothers (35 years old or older),1534
+51,2008,Kern,Teen Mothers (15 years old to 19 years old),2268
+52,2008,Kern,Typical Aged Mothers (20 years old to 34 years old),11138
+53,2008,Kings,Total Births,2296
+54,2008,Kings,Older Mothers (35 years old or older),198
+55,2008,Kings,Teen Mothers (15 years old to 19 years old),362
+56,2008,Kings,Typical Aged Mothers (20 years old to 34 years old),1732
+57,2008,Lake,Total Births,678
+58,2008,Lake,Older Mothers (35 years old or older),58
+59,2008,Lake,Teen Mothers (15 years old to 19 years old),104
+60,2008,Lake,Typical Aged Mothers (20 years old to 34 years old),514
+61,2008,Lassen,Total Births,272
+62,2008,Lassen,Older Mothers (35 years old or older),26
+63,2008,Lassen,Teen Mothers (15 years old to 19 years old),27
+64,2008,Lassen,Typical Aged Mothers (20 years old to 34 years old),218
+65,2008,Los Angeles,Total Births,144471
+66,2008,Los Angeles,Older Mothers (35 years old or older),27244
+67,2008,Los Angeles,Teen Mothers (15 years old to 19 years old),14013
+68,2008,Los Angeles,Typical Aged Mothers (20 years old to 34 years old),103051
+69,2008,Madera,Total Births,2656
+70,2008,Madera,Older Mothers (35 years old or older),267
+71,2008,Madera,Teen Mothers (15 years old to 19 years old),368
+72,2008,Madera,Typical Aged Mothers (20 years old to 34 years old),2013
+73,2008,Marin,Total Births,2585
+74,2008,Marin,Older Mothers (35 years old or older),973
+75,2008,Marin,Teen Mothers (15 years old to 19 years old),96
+76,2008,Marin,Typical Aged Mothers (20 years old to 34 years old),1515
+77,2008,Mendocino,Total Births,1113
+78,2008,Mendocino,Older Mothers (35 years old or older),124
+79,2008,Mendocino,Teen Mothers (15 years old to 19 years old),115
+80,2008,Mendocino,Typical Aged Mothers (20 years old to 34 years old),871
+81,2008,Merced,Total Births,4296
+82,2008,Merced,Older Mothers (35 years old or older),438
+83,2008,Merced,Teen Mothers (15 years old to 19 years old),586
+84,2008,Merced,Typical Aged Mothers (20 years old to 34 years old),3266
+85,2008,Monterey,Total Births,7158
+86,2008,Monterey,Older Mothers (35 years old or older),929
+87,2008,Monterey,Teen Mothers (15 years old to 19 years old),878
+88,2008,Monterey,Typical Aged Mothers (20 years old to 34 years old),5334
+89,2008,Napa,Total Births,1623
+90,2008,Napa,Older Mothers (35 years old or older),325
+91,2008,Napa,Teen Mothers (15 years old to 19 years old),137
+92,2008,Napa,Typical Aged Mothers (20 years old to 34 years old),1160
+93,2008,Nevada,Total Births,792
+94,2008,Nevada,Older Mothers (35 years old or older),151
+95,2008,Nevada,Teen Mothers (15 years old to 19 years old),66
+96,2008,Nevada,Typical Aged Mothers (20 years old to 34 years old),575
+97,2008,Orange,Total Births,41387
+98,2008,Orange,Older Mothers (35 years old or older),8541
+99,2008,Orange,Teen Mothers (15 years old to 19 years old),2950
+100,2008,Orange,Typical Aged Mothers (20 years old to 34 years old),29845
+101,2008,Placer,Total Births,3877
+102,2008,Placer,Older Mothers (35 years old or older),802
+103,2008,Placer,Teen Mothers (15 years old to 19 years old),189
+104,2008,Placer,Typical Aged Mothers (20 years old to 34 years old),2884
+105,2008,Riverside,Total Births,31865
+106,2008,Riverside,Older Mothers (35 years old or older),4210
+107,2008,Riverside,Teen Mothers (15 years old to 19 years old),3639
+108,2008,Riverside,Typical Aged Mothers (20 years old to 34 years old),23979
+109,2008,Sacramento,Total Births,20801
+110,2008,Sacramento,Older Mothers (35 years old or older),3112
+111,2008,Sacramento,Teen Mothers (15 years old to 19 years old),1886
+112,2008,Sacramento,Typical Aged Mothers (20 years old to 34 years old),15779
+113,2008,San Benito,Total Births,796
+114,2008,San Benito,Older Mothers (35 years old or older),117
+115,2008,San Benito,Teen Mothers (15 years old to 19 years old),80
+116,2008,San Benito,Typical Aged Mothers (20 years old to 34 years old),598
+117,2008,San Bernardino,Total Births,32279
+118,2008,San Bernardino,Older Mothers (35 years old or older),3941
+119,2008,San Bernardino,Teen Mothers (15 years old to 19 years old),4189
+120,2008,San Bernardino,Typical Aged Mothers (20 years old to 34 years old),24115
+121,2008,San Diego,Total Births,41118
+122,2008,San Diego,Older Mothers (35 years old or older),7321
+123,2008,San Diego,Teen Mothers (15 years old to 19 years old),3570
+124,2008,San Diego,Typical Aged Mothers (20 years old to 34 years old),30185
+125,2008,San Francisco,Total Births,8821
+126,2008,San Francisco,Older Mothers (35 years old or older),2949
+127,2008,San Francisco,Teen Mothers (15 years old to 19 years old),295
+128,2008,San Francisco,Typical Aged Mothers (20 years old to 34 years old),5564
+129,2008,San Joaquin,Total Births,10852
+130,2008,San Joaquin,Older Mothers (35 years old or older),1387
+131,2008,San Joaquin,Teen Mothers (15 years old to 19 years old),1269
+132,2008,San Joaquin,Typical Aged Mothers (20 years old to 34 years old),8179
+133,2008,San Luis Obispo,Total Births,2618
+134,2008,San Luis Obispo,Older Mothers (35 years old or older),420
+135,2008,San Luis Obispo,Teen Mothers (15 years old to 19 years old),208
+136,2008,San Luis Obispo,Typical Aged Mothers (20 years old to 34 years old),1987
+137,2008,San Mateo,Total Births,8786
+138,2008,San Mateo,Older Mothers (35 years old or older),2503
+139,2008,San Mateo,Teen Mothers (15 years old to 19 years old),355
+140,2008,San Mateo,Typical Aged Mothers (20 years old to 34 years old),5923
+141,2008,Santa Barbara,Total Births,6153
+142,2008,Santa Barbara,Older Mothers (35 years old or older),954
+143,2008,Santa Barbara,Teen Mothers (15 years old to 19 years old),670
+144,2008,Santa Barbara,Typical Aged Mothers (20 years old to 34 years old),4519
+145,2008,Santa Clara,Total Births,26724
+146,2008,Santa Clara,Older Mothers (35 years old or older),6237
+147,2008,Santa Clara,Teen Mothers (15 years old to 19 years old),1491
+148,2008,Santa Clara,Typical Aged Mothers (20 years old to 34 years old),18977
+149,2008,Santa Cruz,Total Births,3576
+150,2008,Santa Cruz,Older Mothers (35 years old or older),672
+151,2008,Santa Cruz,Teen Mothers (15 years old to 19 years old),320
+152,2008,Santa Cruz,Typical Aged Mothers (20 years old to 34 years old),2581
+153,2008,Shasta,Total Births,2161
+154,2008,Shasta,Older Mothers (35 years old or older),207
+155,2008,Shasta,Teen Mothers (15 years old to 19 years old),240
+156,2008,Shasta,Typical Aged Mothers (20 years old to 34 years old),1714
+157,2008,Siskiyou,Total Births,378
+158,2008,Siskiyou,Older Mothers (35 years old or older),42
+159,2008,Siskiyou,Teen Mothers (15 years old to 19 years old),42
+160,2008,Siskiyou,Typical Aged Mothers (20 years old to 34 years old),294
+161,2008,Solano,Total Births,5036
+162,2008,Solano,Older Mothers (35 years old or older),739
+163,2008,Solano,Teen Mothers (15 years old to 19 years old),459
+164,2008,Solano,Typical Aged Mothers (20 years old to 34 years old),3832
+165,2008,Sonoma,Total Births,5444
+166,2008,Sonoma,Older Mothers (35 years old or older),937
+167,2008,Sonoma,Teen Mothers (15 years old to 19 years old),445
+168,2008,Sonoma,Typical Aged Mothers (20 years old to 34 years old),4054
+169,2008,Stanislaus,Total Births,8409
+170,2008,Stanislaus,Older Mothers (35 years old or older),960
+171,2008,Stanislaus,Teen Mothers (15 years old to 19 years old),984
+172,2008,Stanislaus,Typical Aged Mothers (20 years old to 34 years old),6455
+173,2008,Sutter,Total Births,1426
+174,2008,Sutter,Older Mothers (35 years old or older),181
+175,2008,Sutter,Teen Mothers (15 years old to 19 years old),132
+176,2008,Sutter,Typical Aged Mothers (20 years old to 34 years old),1111
+177,2008,Tehama,Total Births,742
+178,2008,Tehama,Older Mothers (35 years old or older),66
+179,2008,Tehama,Teen Mothers (15 years old to 19 years old),109
+180,2008,Tehama,Typical Aged Mothers (20 years old to 34 years old),567
+181,2008,Tulare,Total Births,8388
+182,2008,Tulare,Older Mothers (35 years old or older),853
+183,2008,Tulare,Teen Mothers (15 years old to 19 years old),1233
+184,2008,Tulare,Typical Aged Mothers (20 years old to 34 years old),6286
+185,2008,Ventura,Total Births,11761
+186,2008,Ventura,Older Mothers (35 years old or older),2041
+187,2008,Ventura,Teen Mothers (15 years old to 19 years old),1080
+188,2008,Ventura,Typical Aged Mothers (20 years old to 34 years old),8618
+189,2008,Yolo,Total Births,2590
+190,2008,Yolo,Older Mothers (35 years old or older),453
+191,2008,Yolo,Teen Mothers (15 years old to 19 years old),221
+192,2008,Yolo,Typical Aged Mothers (20 years old to 34 years old),1915
+193,2008,Yuba,Total Births,1218
+194,2008,Yuba,Older Mothers (35 years old or older),108
+195,2008,Yuba,Teen Mothers (15 years old to 19 years old),131
+196,2008,Yuba,Typical Aged Mothers (20 years old to 34 years old),979
+197,2009,Alameda,Total Births,19854
+198,2009,Alameda,Older Mothers (35 years old or older),4555
+199,2009,Alameda,Teen Mothers (15 years old to 19 years old),1233
+200,2009,Alameda,Typical Aged Mothers (20 years old to 34 years old),14051
+201,2009,Butte,Total Births,2373
+202,2009,Butte,Older Mothers (35 years old or older),271
+203,2009,Butte,Teen Mothers (15 years old to 19 years old),232
+204,2009,Butte,Typical Aged Mothers (20 years old to 34 years old),1867
+205,2009,Calaveras,Total Births,324
+206,2009,Calaveras,Older Mothers (35 years old or older),31
+207,2009,Calaveras,Teen Mothers (15 years old to 19 years old),32
+208,2009,Calaveras,Typical Aged Mothers (20 years old to 34 years old),260
+209,2009,Colusa,Total Births,358
+210,2009,Colusa,Older Mothers (35 years old or older),35
+211,2009,Colusa,Teen Mothers (15 years old to 19 years old),41
+212,2009,Colusa,Typical Aged Mothers (20 years old to 34 years old),282
+213,2009,Contra Costa,Total Births,12297
+214,2009,Contra Costa,Older Mothers (35 years old or older),2694
+215,2009,Contra Costa,Teen Mothers (15 years old to 19 years old),747
+216,2009,Contra Costa,Typical Aged Mothers (20 years old to 34 years old),8848
+217,2009,Del Norte,Total Births,299
+218,2009,Del Norte,Older Mothers (35 years old or older),31
+219,2009,Del Norte,Teen Mothers (15 years old to 19 years old),54
+220,2009,Del Norte,Typical Aged Mothers (20 years old to 34 years old),213
+221,2009,El Dorado,Total Births,1638
+222,2009,El Dorado,Older Mothers (35 years old or older),311
+223,2009,El Dorado,Teen Mothers (15 years old to 19 years old),111
+224,2009,El Dorado,Typical Aged Mothers (20 years old to 34 years old),1216
+225,2009,Fresno,Total Births,16073
+226,2009,Fresno,Older Mothers (35 years old or older),1806
+227,2009,Fresno,Teen Mothers (15 years old to 19 years old),2070
+228,2009,Fresno,Typical Aged Mothers (20 years old to 34 years old),12160
+229,2009,Glenn,Total Births,427
+230,2009,Glenn,Older Mothers (35 years old or older),42
+231,2009,Glenn,Teen Mothers (15 years old to 19 years old),54
+232,2009,Glenn,Typical Aged Mothers (20 years old to 34 years old),331
+233,2009,Humboldt,Total Births,1476
+234,2009,Humboldt,Older Mothers (35 years old or older),184
+235,2009,Humboldt,Teen Mothers (15 years old to 19 years old),117
+236,2009,Humboldt,Typical Aged Mothers (20 years old to 34 years old),1173
+237,2009,Imperial,Total Births,3070
+238,2009,Imperial,Older Mothers (35 years old or older),349
+239,2009,Imperial,Teen Mothers (15 years old to 19 years old),454
+240,2009,Imperial,Typical Aged Mothers (20 years old to 34 years old),2260
+241,2009,Inyo,Total Births,235
+242,2009,Inyo,Older Mothers (35 years old or older),30
+243,2009,Inyo,Teen Mothers (15 years old to 19 years old),22
+244,2009,Inyo,Typical Aged Mothers (20 years old to 34 years old),183
+245,2009,Kern,Total Births,14527
+246,2009,Kern,Older Mothers (35 years old or older),1525
+247,2009,Kern,Teen Mothers (15 years old to 19 years old),2120
+248,2009,Kern,Typical Aged Mothers (20 years old to 34 years old),10863
+249,2009,Kings,Total Births,2237
+250,2009,Kings,Older Mothers (35 years old or older),196
+251,2009,Kings,Teen Mothers (15 years old to 19 years old),318
+252,2009,Kings,Typical Aged Mothers (20 years old to 34 years old),1723
+253,2009,Lake,Total Births,703
+254,2009,Lake,Older Mothers (35 years old or older),75
+255,2009,Lake,Teen Mothers (15 years old to 19 years old),88
+256,2009,Lake,Typical Aged Mothers (20 years old to 34 years old),540
+257,2009,Lassen,Total Births,311
+258,2009,Lassen,Older Mothers (35 years old or older),24
+259,2009,Lassen,Teen Mothers (15 years old to 19 years old),35
+260,2009,Lassen,Typical Aged Mothers (20 years old to 34 years old),252
+261,2009,Los Angeles,Total Births,136801
+262,2009,Los Angeles,Older Mothers (35 years old or older),26377
+263,2009,Los Angeles,Teen Mothers (15 years old to 19 years old),13059
+264,2009,Los Angeles,Typical Aged Mothers (20 years old to 34 years old),97231
+265,2009,Madera,Total Births,2499
+266,2009,Madera,Older Mothers (35 years old or older),259
+267,2009,Madera,Teen Mothers (15 years old to 19 years old),331
+268,2009,Madera,Typical Aged Mothers (20 years old to 34 years old),1903
+269,2009,Marin,Total Births,2385
+270,2009,Marin,Older Mothers (35 years old or older),909
+271,2009,Marin,Teen Mothers (15 years old to 19 years old),81
+272,2009,Marin,Typical Aged Mothers (20 years old to 34 years old),1392
+273,2009,Mendocino,Total Births,1055
+274,2009,Mendocino,Older Mothers (35 years old or older),115
+275,2009,Mendocino,Teen Mothers (15 years old to 19 years old),108
+276,2009,Mendocino,Typical Aged Mothers (20 years old to 34 years old),830
+277,2009,Merced,Total Births,4320
+278,2009,Merced,Older Mothers (35 years old or older),484
+279,2009,Merced,Teen Mothers (15 years old to 19 years old),572
+280,2009,Merced,Typical Aged Mothers (20 years old to 34 years old),3257
+281,2009,Monterey,Total Births,6738
+282,2009,Monterey,Older Mothers (35 years old or older),970
+283,2009,Monterey,Teen Mothers (15 years old to 19 years old),767
+284,2009,Monterey,Typical Aged Mothers (20 years old to 34 years old),4988
+285,2009,Napa,Total Births,1601
+286,2009,Napa,Older Mothers (35 years old or older),305
+287,2009,Napa,Teen Mothers (15 years old to 19 years old),108
+288,2009,Napa,Typical Aged Mothers (20 years old to 34 years old),1186
+289,2009,Nevada,Total Births,698
+290,2009,Nevada,Older Mothers (35 years old or older),116
+291,2009,Nevada,Teen Mothers (15 years old to 19 years old),31
+292,2009,Nevada,Typical Aged Mothers (20 years old to 34 years old),550
+293,2009,Orange,Total Births,39384
+294,2009,Orange,Older Mothers (35 years old or older),8354
+295,2009,Orange,Teen Mothers (15 years old to 19 years old),2713
+296,2009,Orange,Typical Aged Mothers (20 years old to 34 years old),28283
+297,2009,Placer,Total Births,3660
+298,2009,Placer,Older Mothers (35 years old or older),706
+299,2009,Placer,Teen Mothers (15 years old to 19 years old),144
+300,2009,Placer,Typical Aged Mothers (20 years old to 34 years old),2809
+301,2009,Riverside,Total Births,30698
+302,2009,Riverside,Older Mothers (35 years old or older),4021
+303,2009,Riverside,Teen Mothers (15 years old to 19 years old),3327
+304,2009,Riverside,Typical Aged Mothers (20 years old to 34 years old),23324
+305,2009,Sacramento,Total Births,19923
+306,2009,Sacramento,Older Mothers (35 years old or older),3042
+307,2009,Sacramento,Teen Mothers (15 years old to 19 years old),1699
+308,2009,Sacramento,Typical Aged Mothers (20 years old to 34 years old),15153
+309,2009,San Benito,Total Births,723
+310,2009,San Benito,Older Mothers (35 years old or older),94
+311,2009,San Benito,Teen Mothers (15 years old to 19 years old),82
+312,2009,San Benito,Typical Aged Mothers (20 years old to 34 years old),547
+313,2009,San Bernardino,Total Births,30541
+314,2009,San Bernardino,Older Mothers (35 years old or older),3622
+315,2009,San Bernardino,Teen Mothers (15 years old to 19 years old),3746
+316,2009,San Bernardino,Typical Aged Mothers (20 years old to 34 years old),23130
+317,2009,San Diego,Total Births,39158
+318,2009,San Diego,Older Mothers (35 years old or older),7299
+319,2009,San Diego,Teen Mothers (15 years old to 19 years old),3245
+320,2009,San Diego,Typical Aged Mothers (20 years old to 34 years old),28581
+321,2009,San Francisco,Total Births,8537
+322,2009,San Francisco,Older Mothers (35 years old or older),2934
+323,2009,San Francisco,Teen Mothers (15 years old to 19 years old),265
+324,2009,San Francisco,Typical Aged Mothers (20 years old to 34 years old),5336
+325,2009,San Joaquin,Total Births,10653
+326,2009,San Joaquin,Older Mothers (35 years old or older),1340
+327,2009,San Joaquin,Teen Mothers (15 years old to 19 years old),1199
+328,2009,San Joaquin,Typical Aged Mothers (20 years old to 34 years old),8096
+329,2009,San Luis Obispo,Total Births,2511
+330,2009,San Luis Obispo,Older Mothers (35 years old or older),392
+331,2009,San Luis Obispo,Teen Mothers (15 years old to 19 years old),166
+332,2009,San Luis Obispo,Typical Aged Mothers (20 years old to 34 years old),1951
+333,2009,San Mateo,Total Births,8647
+334,2009,San Mateo,Older Mothers (35 years old or older),2648
+335,2009,San Mateo,Teen Mothers (15 years old to 19 years old),359
+336,2009,San Mateo,Typical Aged Mothers (20 years old to 34 years old),5635
+337,2009,Santa Barbara,Total Births,5899
+338,2009,Santa Barbara,Older Mothers (35 years old or older),878
+339,2009,Santa Barbara,Teen Mothers (15 years old to 19 years old),671
+340,2009,Santa Barbara,Typical Aged Mothers (20 years old to 34 years old),4338
+341,2009,Santa Clara,Total Births,25161
+342,2009,Santa Clara,Older Mothers (35 years old or older),5855
+343,2009,Santa Clara,Teen Mothers (15 years old to 19 years old),1386
+344,2009,Santa Clara,Typical Aged Mothers (20 years old to 34 years old),17905
+345,2009,Santa Cruz,Total Births,3401
+346,2009,Santa Cruz,Older Mothers (35 years old or older),644
+347,2009,Santa Cruz,Teen Mothers (15 years old to 19 years old),347
+348,2009,Santa Cruz,Typical Aged Mothers (20 years old to 34 years old),2405
+349,2009,Shasta,Total Births,2026
+350,2009,Shasta,Older Mothers (35 years old or older),188
+351,2009,Shasta,Teen Mothers (15 years old to 19 years old),206
+352,2009,Shasta,Typical Aged Mothers (20 years old to 34 years old),1630
+353,2009,Siskiyou,Total Births,365
+354,2009,Siskiyou,Older Mothers (35 years old or older),37
+355,2009,Siskiyou,Teen Mothers (15 years old to 19 years old),40
+356,2009,Siskiyou,Typical Aged Mothers (20 years old to 34 years old),288
+357,2009,Solano,Total Births,4826
+358,2009,Solano,Older Mothers (35 years old or older),804
+359,2009,Solano,Teen Mothers (15 years old to 19 years old),433
+360,2009,Solano,Typical Aged Mothers (20 years old to 34 years old),3585
+361,2009,Sonoma,Total Births,5390
+362,2009,Sonoma,Older Mothers (35 years old or older),1023
+363,2009,Sonoma,Teen Mothers (15 years old to 19 years old),338
+364,2009,Sonoma,Typical Aged Mothers (20 years old to 34 years old),4025
+365,2009,Stanislaus,Total Births,7830
+366,2009,Stanislaus,Older Mothers (35 years old or older),887
+367,2009,Stanislaus,Teen Mothers (15 years old to 19 years old),859
+368,2009,Stanislaus,Typical Aged Mothers (20 years old to 34 years old),6078
+369,2009,Sutter,Total Births,1410
+370,2009,Sutter,Older Mothers (35 years old or older),166
+371,2009,Sutter,Teen Mothers (15 years old to 19 years old),132
+372,2009,Sutter,Typical Aged Mothers (20 years old to 34 years old),1109
+373,2009,Tehama,Total Births,761
+374,2009,Tehama,Older Mothers (35 years old or older),65
+375,2009,Tehama,Teen Mothers (15 years old to 19 years old),109
+376,2009,Tehama,Typical Aged Mothers (20 years old to 34 years old),586
+377,2009,Tulare,Total Births,8224
+378,2009,Tulare,Older Mothers (35 years old or older),838
+379,2009,Tulare,Teen Mothers (15 years old to 19 years old),1249
+380,2009,Tulare,Typical Aged Mothers (20 years old to 34 years old),6116
+381,2009,Ventura,Total Births,11115
+382,2009,Ventura,Older Mothers (35 years old or older),1861
+383,2009,Ventura,Teen Mothers (15 years old to 19 years old),1078
+384,2009,Ventura,Typical Aged Mothers (20 years old to 34 years old),8156
+385,2009,Yolo,Total Births,2448
+386,2009,Yolo,Older Mothers (35 years old or older),439
+387,2009,Yolo,Teen Mothers (15 years old to 19 years old),180
+388,2009,Yolo,Typical Aged Mothers (20 years old to 34 years old),1829
+389,2009,Yuba,Total Births,1192
+390,2009,Yuba,Older Mothers (35 years old or older),108
+391,2009,Yuba,Teen Mothers (15 years old to 19 years old),129
+392,2009,Yuba,Typical Aged Mothers (20 years old to 34 years old),955
+393,2010,Alameda,Total Births,18800
+394,2010,Alameda,Older Mothers (35 years old or older),4407
+395,2010,Alameda,Teen Mothers (15 years old to 19 years old),1056
+396,2010,Alameda,Typical Aged Mothers (20 years old to 34 years old),13326
+397,2010,Butte,Total Births,2383
+398,2010,Butte,Older Mothers (35 years old or older),248
+399,2010,Butte,Teen Mothers (15 years old to 19 years old),204
+400,2010,Butte,Typical Aged Mothers (20 years old to 34 years old),1927
+401,2010,Calaveras,Total Births,329
+402,2010,Calaveras,Older Mothers (35 years old or older),39
+403,2010,Calaveras,Teen Mothers (15 years old to 19 years old),34
+404,2010,Calaveras,Typical Aged Mothers (20 years old to 34 years old),256
+405,2010,Colusa,Total Births,331
+406,2010,Colusa,Older Mothers (35 years old or older),42
+407,2010,Colusa,Teen Mothers (15 years old to 19 years old),32
+408,2010,Colusa,Typical Aged Mothers (20 years old to 34 years old),257
+409,2010,Contra Costa,Total Births,11942
+410,2010,Contra Costa,Older Mothers (35 years old or older),2633
+411,2010,Contra Costa,Teen Mothers (15 years old to 19 years old),723
+412,2010,Contra Costa,Typical Aged Mothers (20 years old to 34 years old),8578
+413,2010,Del Norte,Total Births,361
+414,2010,Del Norte,Older Mothers (35 years old or older),31
+415,2010,Del Norte,Teen Mothers (15 years old to 19 years old),66
+416,2010,Del Norte,Typical Aged Mothers (20 years old to 34 years old),264
+417,2010,El Dorado,Total Births,1519
+418,2010,El Dorado,Older Mothers (35 years old or older),289
+419,2010,El Dorado,Teen Mothers (15 years old to 19 years old),94
+420,2010,El Dorado,Typical Aged Mothers (20 years old to 34 years old),1136
+421,2010,Fresno,Total Births,16060
+422,2010,Fresno,Older Mothers (35 years old or older),1912
+423,2010,Fresno,Teen Mothers (15 years old to 19 years old),2025
+424,2010,Fresno,Typical Aged Mothers (20 years old to 34 years old),12101
+425,2010,Glenn,Total Births,425
+426,2010,Glenn,Older Mothers (35 years old or older),42
+427,2010,Glenn,Teen Mothers (15 years old to 19 years old),42
+428,2010,Glenn,Typical Aged Mothers (20 years old to 34 years old),341
+429,2010,Humboldt,Total Births,1469
+430,2010,Humboldt,Older Mothers (35 years old or older),187
+431,2010,Humboldt,Teen Mothers (15 years old to 19 years old),123
+432,2010,Humboldt,Typical Aged Mothers (20 years old to 34 years old),1159
+433,2010,Imperial,Total Births,3008
+434,2010,Imperial,Older Mothers (35 years old or older),313
+435,2010,Imperial,Teen Mothers (15 years old to 19 years old),391
+436,2010,Imperial,Typical Aged Mothers (20 years old to 34 years old),2301
+437,2010,Inyo,Total Births,184
+438,2010,Inyo,Older Mothers (35 years old or older),28
+439,2010,Inyo,Teen Mothers (15 years old to 19 years old),15
+440,2010,Inyo,Typical Aged Mothers (20 years old to 34 years old),141
+441,2010,Kern,Total Births,14112
+442,2010,Kern,Older Mothers (35 years old or older),1448
+443,2010,Kern,Teen Mothers (15 years old to 19 years old),1988
+444,2010,Kern,Typical Aged Mothers (20 years old to 34 years old),10659
+445,2010,Kings,Total Births,2047
+446,2010,Kings,Older Mothers (35 years old or older),167
+447,2010,Kings,Teen Mothers (15 years old to 19 years old),272
+448,2010,Kings,Typical Aged Mothers (20 years old to 34 years old),1606
+449,2010,Lake,Total Births,677
+450,2010,Lake,Older Mothers (35 years old or older),58
+451,2010,Lake,Teen Mothers (15 years old to 19 years old),85
+452,2010,Lake,Typical Aged Mothers (20 years old to 34 years old),534
+453,2010,Lassen,Total Births,269
+454,2010,Lassen,Older Mothers (35 years old or older),25
+455,2010,Lassen,Teen Mothers (15 years old to 19 years old),31
+456,2010,Lassen,Typical Aged Mothers (20 years old to 34 years old),213
+457,2010,Los Angeles,Total Births,130369
+458,2010,Los Angeles,Older Mothers (35 years old or older),25618
+459,2010,Los Angeles,Teen Mothers (15 years old to 19 years old),11617
+460,2010,Los Angeles,Typical Aged Mothers (20 years old to 34 years old),93023
+461,2010,Madera,Total Births,2462
+462,2010,Madera,Older Mothers (35 years old or older),254
+463,2010,Madera,Teen Mothers (15 years old to 19 years old),320
+464,2010,Madera,Typical Aged Mothers (20 years old to 34 years old),1885
+465,2010,Marin,Total Births,2262
+466,2010,Marin,Older Mothers (35 years old or older),859
+467,2010,Marin,Teen Mothers (15 years old to 19 years old),76
+468,2010,Marin,Typical Aged Mothers (20 years old to 34 years old),1326
+469,2010,Mendocino,Total Births,1021
+470,2010,Mendocino,Older Mothers (35 years old or older),119
+471,2010,Mendocino,Teen Mothers (15 years old to 19 years old),105
+472,2010,Mendocino,Typical Aged Mothers (20 years old to 34 years old),797
+473,2010,Merced,Total Births,4178
+474,2010,Merced,Older Mothers (35 years old or older),466
+475,2010,Merced,Teen Mothers (15 years old to 19 years old),502
+476,2010,Merced,Typical Aged Mothers (20 years old to 34 years old),3203
+477,2010,Monterey,Total Births,6469
+478,2010,Monterey,Older Mothers (35 years old or older),930
+479,2010,Monterey,Teen Mothers (15 years old to 19 years old),731
+480,2010,Monterey,Typical Aged Mothers (20 years old to 34 years old),4797
+481,2010,Napa,Total Births,1484
+482,2010,Napa,Older Mothers (35 years old or older),305
+483,2010,Napa,Teen Mothers (15 years old to 19 years old),106
+484,2010,Napa,Typical Aged Mothers (20 years old to 34 years old),1073
+485,2010,Nevada,Total Births,717
+486,2010,Nevada,Older Mothers (35 years old or older),135
+487,2010,Nevada,Teen Mothers (15 years old to 19 years old),43
+488,2010,Nevada,Typical Aged Mothers (20 years old to 34 years old),538
+489,2010,Orange,Total Births,37443
+490,2010,Orange,Older Mothers (35 years old or older),8036
+491,2010,Orange,Teen Mothers (15 years old to 19 years old),2468
+492,2010,Orange,Typical Aged Mothers (20 years old to 34 years old),26902
+493,2010,Placer,Total Births,3703
+494,2010,Placer,Older Mothers (35 years old or older),666
+495,2010,Placer,Teen Mothers (15 years old to 19 years old),170
+496,2010,Placer,Typical Aged Mothers (20 years old to 34 years old),2866
+497,2010,Riverside,Total Births,29694
+498,2010,Riverside,Older Mothers (35 years old or older),4092
+499,2010,Riverside,Teen Mothers (15 years old to 19 years old),2873
+500,2010,Riverside,Typical Aged Mothers (20 years old to 34 years old),22700
+501,2010,Sacramento,Total Births,19421
+502,2010,Sacramento,Older Mothers (35 years old or older),2920
+503,2010,Sacramento,Teen Mothers (15 years old to 19 years old),1566
+504,2010,Sacramento,Typical Aged Mothers (20 years old to 34 years old),14917
+505,2010,San Benito,Total Births,722
+506,2010,San Benito,Older Mothers (35 years old or older),128
+507,2010,San Benito,Teen Mothers (15 years old to 19 years old),45
+508,2010,San Benito,Typical Aged Mothers (20 years old to 34 years old),549
+509,2010,San Bernardino,Total Births,29666
+510,2010,San Bernardino,Older Mothers (35 years old or older),3652
+511,2010,San Bernardino,Teen Mothers (15 years old to 19 years old),3361
+512,2010,San Bernardino,Typical Aged Mothers (20 years old to 34 years old),22625
+513,2010,San Diego,Total Births,38880
+514,2010,San Diego,Older Mothers (35 years old or older),7422
+515,2010,San Diego,Teen Mothers (15 years old to 19 years old),2886
+516,2010,San Diego,Typical Aged Mothers (20 years old to 34 years old),28543
+517,2010,San Francisco,Total Births,8533
+518,2010,San Francisco,Older Mothers (35 years old or older),3097
+519,2010,San Francisco,Teen Mothers (15 years old to 19 years old),229
+520,2010,San Francisco,Typical Aged Mothers (20 years old to 34 years old),5207
+521,2010,San Joaquin,Total Births,10381
+522,2010,San Joaquin,Older Mothers (35 years old or older),1400
+523,2010,San Joaquin,Teen Mothers (15 years old to 19 years old),1056
+524,2010,San Joaquin,Typical Aged Mothers (20 years old to 34 years old),7919
+525,2010,San Luis Obispo,Total Births,2614
+526,2010,San Luis Obispo,Older Mothers (35 years old or older),430
+527,2010,San Luis Obispo,Teen Mothers (15 years old to 19 years old),196
+528,2010,San Luis Obispo,Typical Aged Mothers (20 years old to 34 years old),1984
+529,2010,San Mateo,Total Births,8402
+530,2010,San Mateo,Older Mothers (35 years old or older),2476
+531,2010,San Mateo,Teen Mothers (15 years old to 19 years old),285
+532,2010,San Mateo,Typical Aged Mothers (20 years old to 34 years old),5636
+533,2010,Santa Barbara,Total Births,5592
+534,2010,Santa Barbara,Older Mothers (35 years old or older),859
+535,2010,Santa Barbara,Teen Mothers (15 years old to 19 years old),628
+536,2010,Santa Barbara,Typical Aged Mothers (20 years old to 34 years old),4104
+537,2010,Santa Clara,Total Births,23916
+538,2010,Santa Clara,Older Mothers (35 years old or older),5731
+539,2010,Santa Clara,Teen Mothers (15 years old to 19 years old),1238
+540,2010,Santa Clara,Typical Aged Mothers (20 years old to 34 years old),16925
+541,2010,Santa Cruz,Total Births,3221
+542,2010,Santa Cruz,Older Mothers (35 years old or older),629
+543,2010,Santa Cruz,Teen Mothers (15 years old to 19 years old),283
+544,2010,Santa Cruz,Typical Aged Mothers (20 years old to 34 years old),2308
+545,2010,Shasta,Total Births,2075
+546,2010,Shasta,Older Mothers (35 years old or older),181
+547,2010,Shasta,Teen Mothers (15 years old to 19 years old),192
+548,2010,Shasta,Typical Aged Mothers (20 years old to 34 years old),1702
+549,2010,Siskiyou,Total Births,348
+550,2010,Siskiyou,Older Mothers (35 years old or older),39
+551,2010,Siskiyou,Teen Mothers (15 years old to 19 years old),44
+552,2010,Siskiyou,Typical Aged Mothers (20 years old to 34 years old),265
+553,2010,Solano,Total Births,4537
+554,2010,Solano,Older Mothers (35 years old or older),691
+555,2010,Solano,Teen Mothers (15 years old to 19 years old),351
+556,2010,Solano,Typical Aged Mothers (20 years old to 34 years old),3490
+557,2010,Sonoma,Total Births,5115
+558,2010,Sonoma,Older Mothers (35 years old or older),954
+559,2010,Sonoma,Teen Mothers (15 years old to 19 years old),343
+560,2010,Sonoma,Typical Aged Mothers (20 years old to 34 years old),3814
+561,2010,Stanislaus,Total Births,7688
+562,2010,Stanislaus,Older Mothers (35 years old or older),954
+563,2010,Stanislaus,Teen Mothers (15 years old to 19 years old),801
+564,2010,Stanislaus,Typical Aged Mothers (20 years old to 34 years old),5925
+565,2010,Sutter,Total Births,1311
+566,2010,Sutter,Older Mothers (35 years old or older),157
+567,2010,Sutter,Teen Mothers (15 years old to 19 years old),106
+568,2010,Sutter,Typical Aged Mothers (20 years old to 34 years old),1048
+569,2010,Tehama,Total Births,728
+570,2010,Tehama,Older Mothers (35 years old or older),61
+571,2010,Tehama,Teen Mothers (15 years old to 19 years old),103
+572,2010,Tehama,Typical Aged Mothers (20 years old to 34 years old),564
+573,2010,Tulare,Total Births,8024
+574,2010,Tulare,Older Mothers (35 years old or older),856
+575,2010,Tulare,Teen Mothers (15 years old to 19 years old),1119
+576,2010,Tulare,Typical Aged Mothers (20 years old to 34 years old),6032
+577,2010,Ventura,Total Births,10916
+578,2010,Ventura,Older Mothers (35 years old or older),1976
+579,2010,Ventura,Teen Mothers (15 years old to 19 years old),923
+580,2010,Ventura,Typical Aged Mothers (20 years old to 34 years old),8003
+581,2010,Yolo,Total Births,2376
+582,2010,Yolo,Older Mothers (35 years old or older),428
+583,2010,Yolo,Teen Mothers (15 years old to 19 years old),171
+584,2010,Yolo,Typical Aged Mothers (20 years old to 34 years old),1776
+585,2010,Yuba,Total Births,1202
+586,2010,Yuba,Older Mothers (35 years old or older),102
+587,2010,Yuba,Teen Mothers (15 years old to 19 years old),144
+588,2010,Yuba,Typical Aged Mothers (20 years old to 34 years old),955
+589,2011,Alameda,Total Births,18397
+590,2011,Alameda,Older Mothers (35 years old or older),4435
+591,2011,Alameda,Teen Mothers (15 years old to 19 years old),899
+592,2011,Alameda,Typical Aged Mothers (20 years old to 34 years old),13048
+593,2011,Butte,Total Births,2316
+594,2011,Butte,Older Mothers (35 years old or older),268
+595,2011,Butte,Teen Mothers (15 years old to 19 years old),202
+596,2011,Butte,Typical Aged Mothers (20 years old to 34 years old),1845
+597,2011,Calaveras,Total Births,313
+598,2011,Calaveras,Older Mothers (35 years old or older),37
+599,2011,Calaveras,Teen Mothers (15 years old to 19 years old),23
+600,2011,Calaveras,Typical Aged Mothers (20 years old to 34 years old),253
+601,2011,Colusa,Total Births,292
+602,2011,Colusa,Older Mothers (35 years old or older),44
+603,2011,Colusa,Teen Mothers (15 years old to 19 years old),23
+604,2011,Colusa,Typical Aged Mothers (20 years old to 34 years old),225
+605,2011,Contra Costa,Total Births,11720
+606,2011,Contra Costa,Older Mothers (35 years old or older),2649
+607,2011,Contra Costa,Teen Mothers (15 years old to 19 years old),611
+608,2011,Contra Costa,Typical Aged Mothers (20 years old to 34 years old),8454
+609,2011,Del Norte,Total Births,319
+610,2011,Del Norte,Older Mothers (35 years old or older),29
+611,2011,Del Norte,Teen Mothers (15 years old to 19 years old),36
+612,2011,Del Norte,Typical Aged Mothers (20 years old to 34 years old),254
+613,2011,El Dorado,Total Births,1532
+614,2011,El Dorado,Older Mothers (35 years old or older),276
+615,2011,El Dorado,Teen Mothers (15 years old to 19 years old),67
+616,2011,El Dorado,Typical Aged Mothers (20 years old to 34 years old),1187
+617,2011,Fresno,Total Births,15950
+618,2011,Fresno,Older Mothers (35 years old or older),1944
+619,2011,Fresno,Teen Mothers (15 years old to 19 years old),1766
+620,2011,Fresno,Typical Aged Mothers (20 years old to 34 years old),12211
+621,2011,Glenn,Total Births,380
+622,2011,Glenn,Older Mothers (35 years old or older),43
+623,2011,Glenn,Teen Mothers (15 years old to 19 years old),40
+624,2011,Glenn,Typical Aged Mothers (20 years old to 34 years old),295
+625,2011,Humboldt,Total Births,1380
+626,2011,Humboldt,Older Mothers (35 years old or older),171
+627,2011,Humboldt,Teen Mothers (15 years old to 19 years old),104
+628,2011,Humboldt,Typical Aged Mothers (20 years old to 34 years old),1102
+629,2011,Imperial,Total Births,3030
+630,2011,Imperial,Older Mothers (35 years old or older),306
+631,2011,Imperial,Teen Mothers (15 years old to 19 years old),381
+632,2011,Imperial,Typical Aged Mothers (20 years old to 34 years old),2340
+633,2011,Inyo,Total Births,210
+634,2011,Inyo,Older Mothers (35 years old or older),25
+635,2011,Inyo,Teen Mothers (15 years old to 19 years old),23
+636,2011,Inyo,Typical Aged Mothers (20 years old to 34 years old),162
+637,2011,Kern,Total Births,13941
+638,2011,Kern,Older Mothers (35 years old or older),1475
+639,2011,Kern,Teen Mothers (15 years old to 19 years old),1818
+640,2011,Kern,Typical Aged Mothers (20 years old to 34 years old),10629
+641,2011,Kings,Total Births,2106
+642,2011,Kings,Older Mothers (35 years old or older),221
+643,2011,Kings,Teen Mothers (15 years old to 19 years old),276
+644,2011,Kings,Typical Aged Mothers (20 years old to 34 years old),1604
+645,2011,Lake,Total Births,689
+646,2011,Lake,Older Mothers (35 years old or older),64
+647,2011,Lake,Teen Mothers (15 years old to 19 years old),73
+648,2011,Lake,Typical Aged Mothers (20 years old to 34 years old),552
+649,2011,Lassen,Total Births,261
+650,2011,Lassen,Older Mothers (35 years old or older),17
+651,2011,Lassen,Teen Mothers (15 years old to 19 years old),29
+652,2011,Lassen,Typical Aged Mothers (20 years old to 34 years old),215
+653,2011,Los Angeles,Total Births,127613
+654,2011,Los Angeles,Older Mothers (35 years old or older),25857
+655,2011,Los Angeles,Teen Mothers (15 years old to 19 years old),10306
+656,2011,Los Angeles,Typical Aged Mothers (20 years old to 34 years old),91329
+657,2011,Madera,Total Births,2445
+658,2011,Madera,Older Mothers (35 years old or older),316
+659,2011,Madera,Teen Mothers (15 years old to 19 years old),275
+660,2011,Madera,Typical Aged Mothers (20 years old to 34 years old),1848
+661,2011,Marin,Total Births,2271
+662,2011,Marin,Older Mothers (35 years old or older),882
+663,2011,Marin,Teen Mothers (15 years old to 19 years old),76
+664,2011,Marin,Typical Aged Mothers (20 years old to 34 years old),1311
+665,2011,Mendocino,Total Births,1013
+666,2011,Mendocino,Older Mothers (35 years old or older),133
+667,2011,Mendocino,Teen Mothers (15 years old to 19 years old),95
+668,2011,Mendocino,Typical Aged Mothers (20 years old to 34 years old),784
+669,2011,Merced,Total Births,4166
+670,2011,Merced,Older Mothers (35 years old or older),483
+671,2011,Merced,Teen Mothers (15 years old to 19 years old),499
+672,2011,Merced,Typical Aged Mothers (20 years old to 34 years old),3179
+673,2011,Monterey,Total Births,6611
+674,2011,Monterey,Older Mothers (35 years old or older),914
+675,2011,Monterey,Teen Mothers (15 years old to 19 years old),697
+676,2011,Monterey,Typical Aged Mothers (20 years old to 34 years old),4990
+677,2011,Napa,Total Births,1523
+678,2011,Napa,Older Mothers (35 years old or older),300
+679,2011,Napa,Teen Mothers (15 years old to 19 years old),102
+680,2011,Napa,Typical Aged Mothers (20 years old to 34 years old),1120
+681,2011,Nevada,Total Births,680
+682,2011,Nevada,Older Mothers (35 years old or older),109
+683,2011,Nevada,Teen Mothers (15 years old to 19 years old),51
+684,2011,Nevada,Typical Aged Mothers (20 years old to 34 years old),520
+685,2011,Orange,Total Births,37210
+686,2011,Orange,Older Mothers (35 years old or older),8244
+687,2011,Orange,Teen Mothers (15 years old to 19 years old),2227
+688,2011,Orange,Typical Aged Mothers (20 years old to 34 years old),26706
+689,2011,Placer,Total Births,3662
+690,2011,Placer,Older Mothers (35 years old or older),711
+691,2011,Placer,Teen Mothers (15 years old to 19 years old),135
+692,2011,Placer,Typical Aged Mothers (20 years old to 34 years old),2816
+693,2011,Riverside,Total Births,29574
+694,2011,Riverside,Older Mothers (35 years old or older),4091
+695,2011,Riverside,Teen Mothers (15 years old to 19 years old),2559
+696,2011,Riverside,Typical Aged Mothers (20 years old to 34 years old),22904
+697,2011,Sacramento,Total Births,19422
+698,2011,Sacramento,Older Mothers (35 years old or older),2980
+699,2011,Sacramento,Teen Mothers (15 years old to 19 years old),1434
+700,2011,Sacramento,Typical Aged Mothers (20 years old to 34 years old),14998
+701,2011,San Benito,Total Births,751
+702,2011,San Benito,Older Mothers (35 years old or older),120
+703,2011,San Benito,Teen Mothers (15 years old to 19 years old),55
+704,2011,San Benito,Typical Aged Mothers (20 years old to 34 years old),575
+705,2011,San Bernardino,Total Births,28935
+706,2011,San Bernardino,Older Mothers (35 years old or older),3775
+707,2011,San Bernardino,Teen Mothers (15 years old to 19 years old),2958
+708,2011,San Bernardino,Typical Aged Mothers (20 years old to 34 years old),22169
+709,2011,San Diego,Total Births,37884
+710,2011,San Diego,Older Mothers (35 years old or older),7303
+711,2011,San Diego,Teen Mothers (15 years old to 19 years old),2537
+712,2011,San Diego,Typical Aged Mothers (20 years old to 34 years old),28027
+713,2011,San Francisco,Total Births,8626
+714,2011,San Francisco,Older Mothers (35 years old or older),3089
+715,2011,San Francisco,Teen Mothers (15 years old to 19 years old),224
+716,2011,San Francisco,Typical Aged Mothers (20 years old to 34 years old),5307
+717,2011,San Joaquin,Total Births,10140
+718,2011,San Joaquin,Older Mothers (35 years old or older),1363
+719,2011,San Joaquin,Teen Mothers (15 years old to 19 years old),921
+720,2011,San Joaquin,Typical Aged Mothers (20 years old to 34 years old),7848
+721,2011,San Luis Obispo,Total Births,2538
+722,2011,San Luis Obispo,Older Mothers (35 years old or older),420
+723,2011,San Luis Obispo,Teen Mothers (15 years old to 19 years old),143
+724,2011,San Luis Obispo,Typical Aged Mothers (20 years old to 34 years old),1972
+725,2011,San Mateo,Total Births,8152
+726,2011,San Mateo,Older Mothers (35 years old or older),2480
+727,2011,San Mateo,Teen Mothers (15 years old to 19 years old),248
+728,2011,San Mateo,Typical Aged Mothers (20 years old to 34 years old),5423
+729,2011,Santa Barbara,Total Births,5631
+730,2011,Santa Barbara,Older Mothers (35 years old or older),874
+731,2011,Santa Barbara,Teen Mothers (15 years old to 19 years old),554
+732,2011,Santa Barbara,Typical Aged Mothers (20 years old to 34 years old),4197
+733,2011,Santa Clara,Total Births,23680
+734,2011,Santa Clara,Older Mothers (35 years old or older),5648
+735,2011,Santa Clara,Teen Mothers (15 years old to 19 years old),1137
+736,2011,Santa Clara,Typical Aged Mothers (20 years old to 34 years old),16884
+737,2011,Santa Cruz,Total Births,3241
+738,2011,Santa Cruz,Older Mothers (35 years old or older),671
+739,2011,Santa Cruz,Teen Mothers (15 years old to 19 years old),265
+740,2011,Santa Cruz,Typical Aged Mothers (20 years old to 34 years old),2301
+741,2011,Shasta,Total Births,1981
+742,2011,Shasta,Older Mothers (35 years old or older),188
+743,2011,Shasta,Teen Mothers (15 years old to 19 years old),184
+744,2011,Shasta,Typical Aged Mothers (20 years old to 34 years old),1608
+745,2011,Siskiyou,Total Births,370
+746,2011,Siskiyou,Older Mothers (35 years old or older),35
+747,2011,Siskiyou,Teen Mothers (15 years old to 19 years old),28
+748,2011,Siskiyou,Typical Aged Mothers (20 years old to 34 years old),307
+749,2011,Solano,Total Births,4612
+750,2011,Solano,Older Mothers (35 years old or older),739
+751,2011,Solano,Teen Mothers (15 years old to 19 years old),338
+752,2011,Solano,Typical Aged Mothers (20 years old to 34 years old),3533
+753,2011,Sonoma,Total Births,4925
+754,2011,Sonoma,Older Mothers (35 years old or older),928
+755,2011,Sonoma,Teen Mothers (15 years old to 19 years old),304
+756,2011,Sonoma,Typical Aged Mothers (20 years old to 34 years old),3688
+757,2011,Stanislaus,Total Births,7619
+758,2011,Stanislaus,Older Mothers (35 years old or older),891
+759,2011,Stanislaus,Teen Mothers (15 years old to 19 years old),705
+760,2011,Stanislaus,Typical Aged Mothers (20 years old to 34 years old),6017
+761,2011,Sutter,Total Births,1296
+762,2011,Sutter,Older Mothers (35 years old or older),154
+763,2011,Sutter,Teen Mothers (15 years old to 19 years old),100
+764,2011,Sutter,Typical Aged Mothers (20 years old to 34 years old),1042
+765,2011,Tehama,Total Births,683
+766,2011,Tehama,Older Mothers (35 years old or older),64
+767,2011,Tehama,Teen Mothers (15 years old to 19 years old),64
+768,2011,Tehama,Typical Aged Mothers (20 years old to 34 years old),555
+769,2011,Tulare,Total Births,7847
+770,2011,Tulare,Older Mothers (35 years old or older),895
+771,2011,Tulare,Teen Mothers (15 years old to 19 years old),1016
+772,2011,Tulare,Typical Aged Mothers (20 years old to 34 years old),5925
+773,2011,Ventura,Total Births,10391
+774,2011,Ventura,Older Mothers (35 years old or older),1881
+775,2011,Ventura,Teen Mothers (15 years old to 19 years old),858
+776,2011,Ventura,Typical Aged Mothers (20 years old to 34 years old),7646
+777,2011,Yolo,Total Births,2307
+778,2011,Yolo,Older Mothers (35 years old or older),408
+779,2011,Yolo,Teen Mothers (15 years old to 19 years old),160
+780,2011,Yolo,Typical Aged Mothers (20 years old to 34 years old),1738
+781,2011,Yuba,Total Births,1238
+782,2011,Yuba,Older Mothers (35 years old or older),109
+783,2011,Yuba,Teen Mothers (15 years old to 19 years old),97
+784,2011,Yuba,Typical Aged Mothers (20 years old to 34 years old),1030
+785,2012,Alameda,Total Births,18942
+786,2012,Alameda,Older Mothers (35 years old or older),4674
+787,2012,Alameda,Teen Mothers (15 years old to 19 years old),818
+788,2012,Alameda,Typical Aged Mothers (20 years old to 34 years old),13441
+789,2012,Butte,Total Births,2338
+790,2012,Butte,Older Mothers (35 years old or older),269
+791,2012,Butte,Teen Mothers (15 years old to 19 years old),191
+792,2012,Butte,Typical Aged Mothers (20 years old to 34 years old),1878
+793,2012,Calaveras,Total Births,324
+794,2012,Calaveras,Older Mothers (35 years old or older),38
+795,2012,Calaveras,Teen Mothers (15 years old to 19 years old),24
+796,2012,Calaveras,Typical Aged Mothers (20 years old to 34 years old),262
+797,2012,Colusa,Total Births,310
+798,2012,Colusa,Older Mothers (35 years old or older),36
+799,2012,Colusa,Teen Mothers (15 years old to 19 years old),26
+800,2012,Colusa,Typical Aged Mothers (20 years old to 34 years old),248
+801,2012,Contra Costa,Total Births,11677
+802,2012,Contra Costa,Older Mothers (35 years old or older),2639
+803,2012,Contra Costa,Teen Mothers (15 years old to 19 years old),544
+804,2012,Contra Costa,Typical Aged Mothers (20 years old to 34 years old),8483
+805,2012,Del Norte,Total Births,287
+806,2012,Del Norte,Older Mothers (35 years old or older),16
+807,2012,Del Norte,Teen Mothers (15 years old to 19 years old),35
+808,2012,Del Norte,Typical Aged Mothers (20 years old to 34 years old),235
+809,2012,El Dorado,Total Births,1442
+810,2012,El Dorado,Older Mothers (35 years old or older),262
+811,2012,El Dorado,Teen Mothers (15 years old to 19 years old),73
+812,2012,El Dorado,Typical Aged Mothers (20 years old to 34 years old),1106
+813,2012,Fresno,Total Births,15755
+814,2012,Fresno,Older Mothers (35 years old or older),1923
+815,2012,Fresno,Teen Mothers (15 years old to 19 years old),1689
+816,2012,Fresno,Typical Aged Mothers (20 years old to 34 years old),12124
+817,2012,Glenn,Total Births,362
+818,2012,Glenn,Older Mothers (35 years old or older),38
+819,2012,Glenn,Teen Mothers (15 years old to 19 years old),38
+820,2012,Glenn,Typical Aged Mothers (20 years old to 34 years old),286
+821,2012,Humboldt,Total Births,1454
+822,2012,Humboldt,Older Mothers (35 years old or older),191
+823,2012,Humboldt,Teen Mothers (15 years old to 19 years old),97
+824,2012,Humboldt,Typical Aged Mothers (20 years old to 34 years old),1165
+825,2012,Imperial,Total Births,2951
+826,2012,Imperial,Older Mothers (35 years old or older),337
+827,2012,Imperial,Teen Mothers (15 years old to 19 years old),319
+828,2012,Imperial,Typical Aged Mothers (20 years old to 34 years old),2290
+829,2012,Inyo,Total Births,205
+830,2012,Inyo,Older Mothers (35 years old or older),29
+831,2012,Inyo,Teen Mothers (15 years old to 19 years old),17
+832,2012,Inyo,Typical Aged Mothers (20 years old to 34 years old),159
+833,2012,Kern,Total Births,14041
+834,2012,Kern,Older Mothers (35 years old or older),1544
+835,2012,Kern,Teen Mothers (15 years old to 19 years old),1662
+836,2012,Kern,Typical Aged Mothers (20 years old to 34 years old),10818
+837,2012,Kings,Total Births,1990
+838,2012,Kings,Older Mothers (35 years old or older),224
+839,2012,Kings,Teen Mothers (15 years old to 19 years old),204
+840,2012,Kings,Typical Aged Mothers (20 years old to 34 years old),1559
+841,2012,Lake,Total Births,702
+842,2012,Lake,Older Mothers (35 years old or older),89
+843,2012,Lake,Teen Mothers (15 years old to 19 years old),63
+844,2012,Lake,Typical Aged Mothers (20 years old to 34 years old),550
+845,2012,Lassen,Total Births,249
+846,2012,Lassen,Older Mothers (35 years old or older),25
+847,2012,Lassen,Teen Mothers (15 years old to 19 years old),27
+848,2012,Lassen,Typical Aged Mothers (20 years old to 34 years old),197
+849,2012,Los Angeles,Total Births,129520
+850,2012,Los Angeles,Older Mothers (35 years old or older),27182
+851,2012,Los Angeles,Teen Mothers (15 years old to 19 years old),9151
+852,2012,Los Angeles,Typical Aged Mothers (20 years old to 34 years old),93086
+853,2012,Madera,Total Births,2257
+854,2012,Madera,Older Mothers (35 years old or older),258
+855,2012,Madera,Teen Mothers (15 years old to 19 years old),260
+856,2012,Madera,Typical Aged Mothers (20 years old to 34 years old),1734
+857,2012,Marin,Total Births,2195
+858,2012,Marin,Older Mothers (35 years old or older),851
+859,2012,Marin,Teen Mothers (15 years old to 19 years old),52
+860,2012,Marin,Typical Aged Mothers (20 years old to 34 years old),1292
+861,2012,Mendocino,Total Births,1075
+862,2012,Mendocino,Older Mothers (35 years old or older),166
+863,2012,Mendocino,Teen Mothers (15 years old to 19 years old),98
+864,2012,Mendocino,Typical Aged Mothers (20 years old to 34 years old),810
+865,2012,Merced,Total Births,4213
+866,2012,Merced,Older Mothers (35 years old or older),481
+867,2012,Merced,Teen Mothers (15 years old to 19 years old),456
+868,2012,Merced,Typical Aged Mothers (20 years old to 34 years old),3276
+869,2012,Monterey,Total Births,6387
+870,2012,Monterey,Older Mothers (35 years old or older),973
+871,2012,Monterey,Teen Mothers (15 years old to 19 years old),603
+872,2012,Monterey,Typical Aged Mothers (20 years old to 34 years old),4805
+873,2012,Napa,Total Births,1398
+874,2012,Napa,Older Mothers (35 years old or older),290
+875,2012,Napa,Teen Mothers (15 years old to 19 years old),103
+876,2012,Napa,Typical Aged Mothers (20 years old to 34 years old),1005
+877,2012,Nevada,Total Births,705
+878,2012,Nevada,Older Mothers (35 years old or older),120
+879,2012,Nevada,Teen Mothers (15 years old to 19 years old),39
+880,2012,Nevada,Typical Aged Mothers (20 years old to 34 years old),546
+881,2012,Orange,Total Births,37274
+882,2012,Orange,Older Mothers (35 years old or older),8295
+883,2012,Orange,Teen Mothers (15 years old to 19 years old),2080
+884,2012,Orange,Typical Aged Mothers (20 years old to 34 years old),26873
+885,2012,Placer,Total Births,3555
+886,2012,Placer,Older Mothers (35 years old or older),666
+887,2012,Placer,Teen Mothers (15 years old to 19 years old),124
+888,2012,Placer,Typical Aged Mothers (20 years old to 34 years old),2763
+889,2012,Riverside,Total Births,28805
+890,2012,Riverside,Older Mothers (35 years old or older),4030
+891,2012,Riverside,Teen Mothers (15 years old to 19 years old),2450
+892,2012,Riverside,Typical Aged Mothers (20 years old to 34 years old),22304
+893,2012,Sacramento,Total Births,19093
+894,2012,Sacramento,Older Mothers (35 years old or older),3108
+895,2012,Sacramento,Teen Mothers (15 years old to 19 years old),1307
+896,2012,Sacramento,Typical Aged Mothers (20 years old to 34 years old),14668
+897,2012,San Benito,Total Births,673
+898,2012,San Benito,Older Mothers (35 years old or older),108
+899,2012,San Benito,Teen Mothers (15 years old to 19 years old),49
+900,2012,San Benito,Typical Aged Mothers (20 years old to 34 years old),514
+901,2012,San Bernardino,Total Births,28920
+902,2012,San Bernardino,Older Mothers (35 years old or older),3834
+903,2012,San Bernardino,Teen Mothers (15 years old to 19 years old),2761
+904,2012,San Bernardino,Typical Aged Mothers (20 years old to 34 years old),22293
+905,2012,San Diego,Total Births,38420
+906,2012,San Diego,Older Mothers (35 years old or older),7624
+907,2012,San Diego,Teen Mothers (15 years old to 19 years old),2366
+908,2012,San Diego,Typical Aged Mothers (20 years old to 34 years old),28411
+909,2012,San Francisco,Total Births,8818
+910,2012,San Francisco,Older Mothers (35 years old or older),3206
+911,2012,San Francisco,Teen Mothers (15 years old to 19 years old),203
+912,2012,San Francisco,Typical Aged Mothers (20 years old to 34 years old),5408
+913,2012,San Joaquin,Total Births,9964
+914,2012,San Joaquin,Older Mothers (35 years old or older),1379
+915,2012,San Joaquin,Teen Mothers (15 years old to 19 years old),857
+916,2012,San Joaquin,Typical Aged Mothers (20 years old to 34 years old),7718
+917,2012,San Luis Obispo,Total Births,2459
+918,2012,San Luis Obispo,Older Mothers (35 years old or older),382
+919,2012,San Luis Obispo,Teen Mothers (15 years old to 19 years old),149
+920,2012,San Luis Obispo,Typical Aged Mothers (20 years old to 34 years old),1925
+921,2012,San Mateo,Total Births,8327
+922,2012,San Mateo,Older Mothers (35 years old or older),2578
+923,2012,San Mateo,Teen Mothers (15 years old to 19 years old),222
+924,2012,San Mateo,Typical Aged Mothers (20 years old to 34 years old),5527
+925,2012,Santa Barbara,Total Births,5486
+926,2012,Santa Barbara,Older Mothers (35 years old or older),915
+927,2012,Santa Barbara,Teen Mothers (15 years old to 19 years old),466
+928,2012,Santa Barbara,Typical Aged Mothers (20 years old to 34 years old),4094
+929,2012,Santa Clara,Total Births,24417
+930,2012,Santa Clara,Older Mothers (35 years old or older),6044
+931,2012,Santa Clara,Teen Mothers (15 years old to 19 years old),1024
+932,2012,Santa Clara,Typical Aged Mothers (20 years old to 34 years old),17342
+933,2012,Santa Cruz,Total Births,3120
+934,2012,Santa Cruz,Older Mothers (35 years old or older),624
+935,2012,Santa Cruz,Teen Mothers (15 years old to 19 years old),237
+936,2012,Santa Cruz,Typical Aged Mothers (20 years old to 34 years old),2256
+937,2012,Shasta,Total Births,2023
+938,2012,Shasta,Older Mothers (35 years old or older),217
+939,2012,Shasta,Teen Mothers (15 years old to 19 years old),151
+940,2012,Shasta,Typical Aged Mothers (20 years old to 34 years old),1653
+941,2012,Siskiyou,Total Births,403
+942,2012,Siskiyou,Older Mothers (35 years old or older),28
+943,2012,Siskiyou,Teen Mothers (15 years old to 19 years old),38
+944,2012,Siskiyou,Typical Aged Mothers (20 years old to 34 years old),337
+945,2012,Solano,Total Births,4521
+946,2012,Solano,Older Mothers (35 years old or older),735
+947,2012,Solano,Teen Mothers (15 years old to 19 years old),315
+948,2012,Solano,Typical Aged Mothers (20 years old to 34 years old),3470
+949,2012,Sonoma,Total Births,4834
+950,2012,Sonoma,Older Mothers (35 years old or older),936
+951,2012,Sonoma,Teen Mothers (15 years old to 19 years old),255
+952,2012,Sonoma,Typical Aged Mothers (20 years old to 34 years old),3640
+953,2012,Stanislaus,Total Births,7456
+954,2012,Stanislaus,Older Mothers (35 years old or older),877
+955,2012,Stanislaus,Teen Mothers (15 years old to 19 years old),692
+956,2012,Stanislaus,Typical Aged Mothers (20 years old to 34 years old),5876
+957,2012,Sutter,Total Births,1246
+958,2012,Sutter,Older Mothers (35 years old or older),148
+959,2012,Sutter,Teen Mothers (15 years old to 19 years old),96
+960,2012,Sutter,Typical Aged Mothers (20 years old to 34 years old),1000
+961,2012,Tehama,Total Births,727
+962,2012,Tehama,Older Mothers (35 years old or older),78
+963,2012,Tehama,Teen Mothers (15 years old to 19 years old),74
+964,2012,Tehama,Typical Aged Mothers (20 years old to 34 years old),575
+965,2012,Tulare,Total Births,7873
+966,2012,Tulare,Older Mothers (35 years old or older),928
+967,2012,Tulare,Teen Mothers (15 years old to 19 years old),934
+968,2012,Tulare,Typical Aged Mothers (20 years old to 34 years old),6003
+969,2012,Ventura,Total Births,10344
+970,2012,Ventura,Older Mothers (35 years old or older),1908
+971,2012,Ventura,Teen Mothers (15 years old to 19 years old),718
+972,2012,Ventura,Typical Aged Mothers (20 years old to 34 years old),7712
+973,2012,Yolo,Total Births,2417
+974,2012,Yolo,Older Mothers (35 years old or older),432
+975,2012,Yolo,Teen Mothers (15 years old to 19 years old),146
+976,2012,Yolo,Typical Aged Mothers (20 years old to 34 years old),1837
+977,2012,Yuba,Total Births,1185
+978,2012,Yuba,Older Mothers (35 years old or older),118
+979,2012,Yuba,Teen Mothers (15 years old to 19 years old),88
+980,2012,Yuba,Typical Aged Mothers (20 years old to 34 years old),979
+981,2013,Alameda,Total Births,18618
+982,2013,Alameda,Older Mothers (35 years old or older),4774
+983,2013,Alameda,Teen Mothers (15 years old to 19 years old),675
+984,2013,Alameda,Typical Aged Mothers (20 years old to 34 years old),13162
+985,2013,Butte,Total Births,2316
+986,2013,Butte,Older Mothers (35 years old or older),296
+987,2013,Butte,Teen Mothers (15 years old to 19 years old),149
+988,2013,Butte,Typical Aged Mothers (20 years old to 34 years old),1869
+989,2013,Calaveras,Total Births,318
+990,2013,Calaveras,Older Mothers (35 years old or older),47
+991,2013,Calaveras,Teen Mothers (15 years old to 19 years old),11
+992,2013,Calaveras,Typical Aged Mothers (20 years old to 34 years old),260
+993,2013,Colusa,Total Births,303
+994,2013,Colusa,Older Mothers (35 years old or older),42
+995,2013,Colusa,Teen Mothers (15 years old to 19 years old),26
+996,2013,Colusa,Typical Aged Mothers (20 years old to 34 years old),235
+997,2013,Contra Costa,Total Births,11760
+998,2013,Contra Costa,Older Mothers (35 years old or older),2811
+999,2013,Contra Costa,Teen Mothers (15 years old to 19 years old),479
+1000,2013,Contra Costa,Typical Aged Mothers (20 years old to 34 years old),8463
+1001,2013,Del Norte,Total Births,296
+1002,2013,Del Norte,Older Mothers (35 years old or older),21
+1003,2013,Del Norte,Teen Mothers (15 years old to 19 years old),37
+1004,2013,Del Norte,Typical Aged Mothers (20 years old to 34 years old),237
+1005,2013,El Dorado,Total Births,1433
+1006,2013,El Dorado,Older Mothers (35 years old or older),261
+1007,2013,El Dorado,Teen Mothers (15 years old to 19 years old),63
+1008,2013,El Dorado,Typical Aged Mothers (20 years old to 34 years old),1108
+1009,2013,Fresno,Total Births,15440
+1010,2013,Fresno,Older Mothers (35 years old or older),2039
+1011,2013,Fresno,Teen Mothers (15 years old to 19 years old),1477
+1012,2013,Fresno,Typical Aged Mothers (20 years old to 34 years old),11900
+1013,2013,Glenn,Total Births,380
+1014,2013,Glenn,Older Mothers (35 years old or older),38
+1015,2013,Glenn,Teen Mothers (15 years old to 19 years old),36
+1016,2013,Glenn,Typical Aged Mothers (20 years old to 34 years old),306
+1017,2013,Humboldt,Total Births,1450
+1018,2013,Humboldt,Older Mothers (35 years old or older),219
+1019,2013,Humboldt,Teen Mothers (15 years old to 19 years old),94
+1020,2013,Humboldt,Typical Aged Mothers (20 years old to 34 years old),1136
+1021,2013,Imperial,Total Births,2909
+1022,2013,Imperial,Older Mothers (35 years old or older),318
+1023,2013,Imperial,Teen Mothers (15 years old to 19 years old),295
+1024,2013,Imperial,Typical Aged Mothers (20 years old to 34 years old),2292
+1025,2013,Inyo,Total Births,227
+1026,2013,Inyo,Older Mothers (35 years old or older),24
+1027,2013,Inyo,Teen Mothers (15 years old to 19 years old),18
+1028,2013,Inyo,Typical Aged Mothers (20 years old to 34 years old),184
+1029,2013,Kern,Total Births,13871
+1030,2013,Kern,Older Mothers (35 years old or older),1551
+1031,2013,Kern,Teen Mothers (15 years old to 19 years old),1526
+1032,2013,Kern,Typical Aged Mothers (20 years old to 34 years old),10775
+1033,2013,Kings,Total Births,1987
+1034,2013,Kings,Older Mothers (35 years old or older),208
+1035,2013,Kings,Teen Mothers (15 years old to 19 years old),200
+1036,2013,Kings,Typical Aged Mothers (20 years old to 34 years old),1577
+1037,2013,Lake,Total Births,713
+1038,2013,Lake,Older Mothers (35 years old or older),74
+1039,2013,Lake,Teen Mothers (15 years old to 19 years old),70
+1040,2013,Lake,Typical Aged Mothers (20 years old to 34 years old),569
+1041,2013,Lassen,Total Births,253
+1042,2013,Lassen,Older Mothers (35 years old or older),20
+1043,2013,Lassen,Teen Mothers (15 years old to 19 years old),23
+1044,2013,Lassen,Typical Aged Mothers (20 years old to 34 years old),210
+1045,2013,Los Angeles,Total Births,125670
+1046,2013,Los Angeles,Older Mothers (35 years old or older),27105
+1047,2013,Los Angeles,Teen Mothers (15 years old to 19 years old),8026
+1048,2013,Los Angeles,Typical Aged Mothers (20 years old to 34 years old),90448
+1049,2013,Madera,Total Births,2268
+1050,2013,Madera,Older Mothers (35 years old or older),295
+1051,2013,Madera,Teen Mothers (15 years old to 19 years old),229
+1052,2013,Madera,Typical Aged Mothers (20 years old to 34 years old),1742
+1053,2013,Marin,Total Births,2209
+1054,2013,Marin,Older Mothers (35 years old or older),878
+1055,2013,Marin,Teen Mothers (15 years old to 19 years old),43
+1056,2013,Marin,Typical Aged Mothers (20 years old to 34 years old),1288
+1057,2013,Mendocino,Total Births,967
+1058,2013,Mendocino,Older Mothers (35 years old or older),151
+1059,2013,Mendocino,Teen Mothers (15 years old to 19 years old),83
+1060,2013,Mendocino,Typical Aged Mothers (20 years old to 34 years old),731
+1061,2013,Merced,Total Births,3624
+1062,2013,Merced,Older Mothers (35 years old or older),430
+1063,2013,Merced,Teen Mothers (15 years old to 19 years old),350
+1064,2013,Merced,Typical Aged Mothers (20 years old to 34 years old),2843
+1065,2013,Monterey,Total Births,6279
+1066,2013,Monterey,Older Mothers (35 years old or older),968
+1067,2013,Monterey,Teen Mothers (15 years old to 19 years old),498
+1068,2013,Monterey,Typical Aged Mothers (20 years old to 34 years old),4804
+1069,2013,Napa,Total Births,1380
+1070,2013,Napa,Older Mothers (35 years old or older),295
+1071,2013,Napa,Teen Mothers (15 years old to 19 years old),81
+1072,2013,Napa,Typical Aged Mothers (20 years old to 34 years old),1003
+1073,2013,Nevada,Total Births,716
+1074,2013,Nevada,Older Mothers (35 years old or older),122
+1075,2013,Nevada,Teen Mothers (15 years old to 19 years old),37
+1076,2013,Nevada,Typical Aged Mothers (20 years old to 34 years old),556
+1077,2013,Orange,Total Births,36271
+1078,2013,Orange,Older Mothers (35 years old or older),8295
+1079,2013,Orange,Teen Mothers (15 years old to 19 years old),1777
+1080,2013,Orange,Typical Aged Mothers (20 years old to 34 years old),26183
+1081,2013,Placer,Total Births,3521
+1082,2013,Placer,Older Mothers (35 years old or older),701
+1083,2013,Placer,Teen Mothers (15 years old to 19 years old),113
+1084,2013,Placer,Typical Aged Mothers (20 years old to 34 years old),2707
+1085,2013,Riverside,Total Births,28894
+1086,2013,Riverside,Older Mothers (35 years old or older),4210
+1087,2013,Riverside,Teen Mothers (15 years old to 19 years old),2129
+1088,2013,Riverside,Typical Aged Mothers (20 years old to 34 years old),22540
+1089,2013,Sacramento,Total Births,18841
+1090,2013,Sacramento,Older Mothers (35 years old or older),2991
+1091,2013,Sacramento,Teen Mothers (15 years old to 19 years old),1094
+1092,2013,Sacramento,Typical Aged Mothers (20 years old to 34 years old),14742
+1093,2013,San Benito,Total Births,714
+1094,2013,San Benito,Older Mothers (35 years old or older),115
+1095,2013,San Benito,Teen Mothers (15 years old to 19 years old),51
+1096,2013,San Benito,Typical Aged Mothers (20 years old to 34 years old),547
+1097,2013,San Bernardino,Total Births,28419
+1098,2013,San Bernardino,Older Mothers (35 years old or older),3936
+1099,2013,San Bernardino,Teen Mothers (15 years old to 19 years old),2371
+1100,2013,San Bernardino,Typical Aged Mothers (20 years old to 34 years old),22098
+1101,2013,San Diego,Total Births,37539
+1102,2013,San Diego,Older Mothers (35 years old or older),7609
+1103,2013,San Diego,Teen Mothers (15 years old to 19 years old),2047
+1104,2013,San Diego,Typical Aged Mothers (20 years old to 34 years old),27865
+1105,2013,San Francisco,Total Births,8548
+1106,2013,San Francisco,Older Mothers (35 years old or older),3229
+1107,2013,San Francisco,Teen Mothers (15 years old to 19 years old),152
+1108,2013,San Francisco,Typical Aged Mothers (20 years old to 34 years old),5164
+1109,2013,San Joaquin,Total Births,9603
+1110,2013,San Joaquin,Older Mothers (35 years old or older),1363
+1111,2013,San Joaquin,Teen Mothers (15 years old to 19 years old),764
+1112,2013,San Joaquin,Typical Aged Mothers (20 years old to 34 years old),7469
+1113,2013,San Luis Obispo,Total Births,2560
+1114,2013,San Luis Obispo,Older Mothers (35 years old or older),434
+1115,2013,San Luis Obispo,Teen Mothers (15 years old to 19 years old),135
+1116,2013,San Luis Obispo,Typical Aged Mothers (20 years old to 34 years old),1990
+1117,2013,San Mateo,Total Births,8044
+1118,2013,San Mateo,Older Mothers (35 years old or older),2569
+1119,2013,San Mateo,Teen Mothers (15 years old to 19 years old),193
+1120,2013,San Mateo,Typical Aged Mothers (20 years old to 34 years old),5282
+1121,2013,Santa Barbara,Total Births,5551
+1122,2013,Santa Barbara,Older Mothers (35 years old or older),840
+1123,2013,Santa Barbara,Teen Mothers (15 years old to 19 years old),439
+1124,2013,Santa Barbara,Typical Aged Mothers (20 years old to 34 years old),4269
+1125,2013,Santa Clara,Total Births,23331
+1126,2013,Santa Clara,Older Mothers (35 years old or older),5986
+1127,2013,Santa Clara,Teen Mothers (15 years old to 19 years old),840
+1128,2013,Santa Clara,Typical Aged Mothers (20 years old to 34 years old),16496
+1129,2013,Santa Cruz,Total Births,2923
+1130,2013,Santa Cruz,Older Mothers (35 years old or older),662
+1131,2013,Santa Cruz,Teen Mothers (15 years old to 19 years old),199
+1132,2013,Santa Cruz,Typical Aged Mothers (20 years old to 34 years old),2060
+1133,2013,Shasta,Total Births,2034
+1134,2013,Shasta,Older Mothers (35 years old or older),198
+1135,2013,Shasta,Teen Mothers (15 years old to 19 years old),150
+1136,2013,Shasta,Typical Aged Mothers (20 years old to 34 years old),1685
+1137,2013,Siskiyou,Total Births,354
+1138,2013,Siskiyou,Older Mothers (35 years old or older),39
+1139,2013,Siskiyou,Teen Mothers (15 years old to 19 years old),23
+1140,2013,Siskiyou,Typical Aged Mothers (20 years old to 34 years old),292
+1141,2013,Solano,Total Births,4701
+1142,2013,Solano,Older Mothers (35 years old or older),820
+1143,2013,Solano,Teen Mothers (15 years old to 19 years old),277
+1144,2013,Solano,Typical Aged Mothers (20 years old to 34 years old),3603
+1145,2013,Sonoma,Total Births,4729
+1146,2013,Sonoma,Older Mothers (35 years old or older),973
+1147,2013,Sonoma,Teen Mothers (15 years old to 19 years old),207
+1148,2013,Sonoma,Typical Aged Mothers (20 years old to 34 years old),3546
+1149,2013,Stanislaus,Total Births,7419
+1150,2013,Stanislaus,Older Mothers (35 years old or older),926
+1151,2013,Stanislaus,Teen Mothers (15 years old to 19 years old),583
+1152,2013,Stanislaus,Typical Aged Mothers (20 years old to 34 years old),5898
+1153,2013,Sutter,Total Births,1248
+1154,2013,Sutter,Older Mothers (35 years old or older),159
+1155,2013,Sutter,Teen Mothers (15 years old to 19 years old),71
+1156,2013,Sutter,Typical Aged Mothers (20 years old to 34 years old),1017
+1157,2013,Tehama,Total Births,683
+1158,2013,Tehama,Older Mothers (35 years old or older),58
+1159,2013,Tehama,Teen Mothers (15 years old to 19 years old),74
+1160,2013,Tehama,Typical Aged Mothers (20 years old to 34 years old),550
+1161,2013,Tulare,Total Births,7514
+1162,2013,Tulare,Older Mothers (35 years old or older),888
+1163,2013,Tulare,Teen Mothers (15 years old to 19 years old),824
+1164,2013,Tulare,Typical Aged Mothers (20 years old to 34 years old),5794
+1165,2013,Ventura,Total Births,10178
+1166,2013,Ventura,Older Mothers (35 years old or older),1943
+1167,2013,Ventura,Teen Mothers (15 years old to 19 years old),655
+1168,2013,Ventura,Typical Aged Mothers (20 years old to 34 years old),7575
+1169,2013,Yolo,Total Births,2417
+1170,2013,Yolo,Older Mothers (35 years old or older),466
+1171,2013,Yolo,Teen Mothers (15 years old to 19 years old),117
+1172,2013,Yolo,Typical Aged Mothers (20 years old to 34 years old),1833
+1173,2013,Yuba,Total Births,1155
+1174,2013,Yuba,Older Mothers (35 years old or older),115
+1175,2013,Yuba,Teen Mothers (15 years old to 19 years old),78
+1176,2013,Yuba,Typical Aged Mothers (20 years old to 34 years old),962
+1177,2014,Alameda,Total Births,19005
+1178,2014,Alameda,Older Mothers (35 years old or older),4942
+1179,2014,Alameda,Teen Mothers (15 years old to 19 years old),570
+1180,2014,Alameda,Typical Aged Mothers (20 years old to 34 years old),13490
+1181,2014,Butte,Total Births,2392
+1182,2014,Butte,Older Mothers (35 years old or older),270
+1183,2014,Butte,Teen Mothers (15 years old to 19 years old),152
+1184,2014,Butte,Typical Aged Mothers (20 years old to 34 years old),1966
+1185,2014,Calaveras,Total Births,335
+1186,2014,Calaveras,Older Mothers (35 years old or older),38
+1187,2014,Calaveras,Teen Mothers (15 years old to 19 years old),15
+1188,2014,Calaveras,Typical Aged Mothers (20 years old to 34 years old),282
+1189,2014,Colusa,Total Births,286
+1190,2014,Colusa,Older Mothers (35 years old or older),35
+1191,2014,Colusa,Teen Mothers (15 years old to 19 years old),24
+1192,2014,Colusa,Typical Aged Mothers (20 years old to 34 years old),226
+1193,2014,Contra Costa,Total Births,12144
+1194,2014,Contra Costa,Older Mothers (35 years old or older),2973
+1195,2014,Contra Costa,Teen Mothers (15 years old to 19 years old),421
+1196,2014,Contra Costa,Typical Aged Mothers (20 years old to 34 years old),8744
+1197,2014,Del Norte,Total Births,298
+1198,2014,Del Norte,Older Mothers (35 years old or older),29
+1199,2014,Del Norte,Teen Mothers (15 years old to 19 years old),31
+1200,2014,Del Norte,Typical Aged Mothers (20 years old to 34 years old),238
+1201,2014,El Dorado,Total Births,1518
+1202,2014,El Dorado,Older Mothers (35 years old or older),285
+1203,2014,El Dorado,Teen Mothers (15 years old to 19 years old),64
+1204,2014,El Dorado,Typical Aged Mothers (20 years old to 34 years old),1169
+1205,2014,Fresno,Total Births,15522
+1206,2014,Fresno,Older Mothers (35 years old or older),2052
+1207,2014,Fresno,Teen Mothers (15 years old to 19 years old),1283
+1208,2014,Fresno,Typical Aged Mothers (20 years old to 34 years old),12178
+1209,2014,Glenn,Total Births,404
+1210,2014,Glenn,Older Mothers (35 years old or older),50
+1211,2014,Glenn,Teen Mothers (15 years old to 19 years old),25
+1212,2014,Glenn,Typical Aged Mothers (20 years old to 34 years old),329
+1213,2014,Humboldt,Total Births,1378
+1214,2014,Humboldt,Older Mothers (35 years old or older),213
+1215,2014,Humboldt,Teen Mothers (15 years old to 19 years old),81
+1216,2014,Humboldt,Typical Aged Mothers (20 years old to 34 years old),1084
+1217,2014,Imperial,Total Births,2882
+1218,2014,Imperial,Older Mothers (35 years old or older),325
+1219,2014,Imperial,Teen Mothers (15 years old to 19 years old),275
+1220,2014,Imperial,Typical Aged Mothers (20 years old to 34 years old),2280
+1221,2014,Inyo,Total Births,216
+1222,2014,Inyo,Older Mothers (35 years old or older),37
+1223,2014,Inyo,Teen Mothers (15 years old to 19 years old),18
+1224,2014,Inyo,Typical Aged Mothers (20 years old to 34 years old),161
+1225,2014,Kern,Total Births,13904
+1226,2014,Kern,Older Mothers (35 years old or older),1588
+1227,2014,Kern,Teen Mothers (15 years old to 19 years old),1362
+1228,2014,Kern,Typical Aged Mothers (20 years old to 34 years old),10936
+1229,2014,Kings,Total Births,2128
+1230,2014,Kings,Older Mothers (35 years old or older),232
+1231,2014,Kings,Teen Mothers (15 years old to 19 years old),177
+1232,2014,Kings,Typical Aged Mothers (20 years old to 34 years old),1716
+1233,2014,Lake,Total Births,677
+1234,2014,Lake,Older Mothers (35 years old or older),76
+1235,2014,Lake,Teen Mothers (15 years old to 19 years old),65
+1236,2014,Lake,Typical Aged Mothers (20 years old to 34 years old),536
+1237,2014,Lassen,Total Births,265
+1238,2014,Lassen,Older Mothers (35 years old or older),28
+1239,2014,Lassen,Teen Mothers (15 years old to 19 years old),15
+1240,2014,Lassen,Typical Aged Mothers (20 years old to 34 years old),222
+1241,2014,Los Angeles,Total Births,127150
+1242,2014,Los Angeles,Older Mothers (35 years old or older),28611
+1243,2014,Los Angeles,Teen Mothers (15 years old to 19 years old),6917
+1244,2014,Los Angeles,Typical Aged Mothers (20 years old to 34 years old),91560
+1245,2014,Madera,Total Births,2253
+1246,2014,Madera,Older Mothers (35 years old or older),294
+1247,2014,Madera,Teen Mothers (15 years old to 19 years old),241
+1248,2014,Madera,Typical Aged Mothers (20 years old to 34 years old),1717
+1249,2014,Marin,Total Births,2302
+1250,2014,Marin,Older Mothers (35 years old or older),931
+1251,2014,Marin,Teen Mothers (15 years old to 19 years old),56
+1252,2014,Marin,Typical Aged Mothers (20 years old to 34 years old),1313
+1253,2014,Mendocino,Total Births,970
+1254,2014,Mendocino,Older Mothers (35 years old or older),148
+1255,2014,Mendocino,Teen Mothers (15 years old to 19 years old),75
+1256,2014,Mendocino,Typical Aged Mothers (20 years old to 34 years old),747
+1257,2014,Merced,Total Births,3454
+1258,2014,Merced,Older Mothers (35 years old or older),459
+1259,2014,Merced,Teen Mothers (15 years old to 19 years old),310
+1260,2014,Merced,Typical Aged Mothers (20 years old to 34 years old),2682
+1261,2014,Monterey,Total Births,6178
+1262,2014,Monterey,Older Mothers (35 years old or older),978
+1263,2014,Monterey,Teen Mothers (15 years old to 19 years old),453
+1264,2014,Monterey,Typical Aged Mothers (20 years old to 34 years old),4743
+1265,2014,Napa,Total Births,1451
+1266,2014,Napa,Older Mothers (35 years old or older),309
+1267,2014,Napa,Teen Mothers (15 years old to 19 years old),61
+1268,2014,Napa,Typical Aged Mothers (20 years old to 34 years old),1080
+1269,2014,Nevada,Total Births,671
+1270,2014,Nevada,Older Mothers (35 years old or older),129
+1271,2014,Nevada,Teen Mothers (15 years old to 19 years old),29
+1272,2014,Nevada,Typical Aged Mothers (20 years old to 34 years old),512
+1273,2014,Orange,Total Births,37539
+1274,2014,Orange,Older Mothers (35 years old or older),9009
+1275,2014,Orange,Teen Mothers (15 years old to 19 years old),1546
+1276,2014,Orange,Typical Aged Mothers (20 years old to 34 years old),26973
+1277,2014,Placer,Total Births,3463
+1278,2014,Placer,Older Mothers (35 years old or older),780
+1279,2014,Placer,Teen Mothers (15 years old to 19 years old),81
+1280,2014,Placer,Typical Aged Mothers (20 years old to 34 years old),2600
+1281,2014,Riverside,Total Births,29496
+1282,2014,Riverside,Older Mothers (35 years old or older),4497
+1283,2014,Riverside,Teen Mothers (15 years old to 19 years old),1888
+1284,2014,Riverside,Typical Aged Mothers (20 years old to 34 years old),23098
+1285,2014,Sacramento,Total Births,18924
+1286,2014,Sacramento,Older Mothers (35 years old or older),3165
+1287,2014,Sacramento,Teen Mothers (15 years old to 19 years old),943
+1288,2014,Sacramento,Typical Aged Mothers (20 years old to 34 years old),14805
+1289,2014,San Benito,Total Births,674
+1290,2014,San Benito,Older Mothers (35 years old or older),115
+1291,2014,San Benito,Teen Mothers (15 years old to 19 years old),48
+1292,2014,San Benito,Typical Aged Mothers (20 years old to 34 years old),511
+1293,2014,San Bernardino,Total Births,29599
+1294,2014,San Bernardino,Older Mothers (35 years old or older),4230
+1295,2014,San Bernardino,Teen Mothers (15 years old to 19 years old),2190
+1296,2014,San Bernardino,Typical Aged Mothers (20 years old to 34 years old),23167
+1297,2014,San Diego,Total Births,38323
+1298,2014,San Diego,Older Mothers (35 years old or older),7916
+1299,2014,San Diego,Teen Mothers (15 years old to 19 years old),1769
+1300,2014,San Diego,Typical Aged Mothers (20 years old to 34 years old),28621
+1301,2014,San Francisco,Total Births,8816
+1302,2014,San Francisco,Older Mothers (35 years old or older),3261
+1303,2014,San Francisco,Teen Mothers (15 years old to 19 years old),148
+1304,2014,San Francisco,Typical Aged Mothers (20 years old to 34 years old),5404
+1305,2014,San Joaquin,Total Births,9885
+1306,2014,San Joaquin,Older Mothers (35 years old or older),1468
+1307,2014,San Joaquin,Teen Mothers (15 years old to 19 years old),667
+1308,2014,San Joaquin,Typical Aged Mothers (20 years old to 34 years old),7748
+1309,2014,San Luis Obispo,Total Births,2501
+1310,2014,San Luis Obispo,Older Mothers (35 years old or older),450
+1311,2014,San Luis Obispo,Teen Mothers (15 years old to 19 years old),132
+1312,2014,San Luis Obispo,Typical Aged Mothers (20 years old to 34 years old),1919
+1313,2014,San Mateo,Total Births,8324
+1314,2014,San Mateo,Older Mothers (35 years old or older),2652
+1315,2014,San Mateo,Teen Mothers (15 years old to 19 years old),175
+1316,2014,San Mateo,Typical Aged Mothers (20 years old to 34 years old),5496
+1317,2014,Santa Barbara,Total Births,5646
+1318,2014,Santa Barbara,Older Mothers (35 years old or older),944
+1319,2014,Santa Barbara,Teen Mothers (15 years old to 19 years old),391
+1320,2014,Santa Barbara,Typical Aged Mothers (20 years old to 34 years old),4308
+1321,2014,Santa Clara,Total Births,23683
+1322,2014,Santa Clara,Older Mothers (35 years old or older),6218
+1323,2014,Santa Clara,Teen Mothers (15 years old to 19 years old),741
+1324,2014,Santa Clara,Typical Aged Mothers (20 years old to 34 years old),16718
+1325,2014,Santa Cruz,Total Births,3128
+1326,2014,Santa Cruz,Older Mothers (35 years old or older),723
+1327,2014,Santa Cruz,Teen Mothers (15 years old to 19 years old),179
+1328,2014,Santa Cruz,Typical Aged Mothers (20 years old to 34 years old),2224
+1329,2014,Shasta,Total Births,2012
+1330,2014,Shasta,Older Mothers (35 years old or older),225
+1331,2014,Shasta,Teen Mothers (15 years old to 19 years old),129
+1332,2014,Shasta,Typical Aged Mothers (20 years old to 34 years old),1658
+1333,2014,Siskiyou,Total Births,328
+1334,2014,Siskiyou,Older Mothers (35 years old or older),39
+1335,2014,Siskiyou,Teen Mothers (15 years old to 19 years old),23
+1336,2014,Siskiyou,Typical Aged Mothers (20 years old to 34 years old),266
+1337,2014,Solano,Total Births,4736
+1338,2014,Solano,Older Mothers (35 years old or older),772
+1339,2014,Solano,Teen Mothers (15 years old to 19 years old),261
+1340,2014,Solano,Typical Aged Mothers (20 years old to 34 years old),3699
+1341,2014,Sonoma,Total Births,4797
+1342,2014,Sonoma,Older Mothers (35 years old or older),995
+1343,2014,Sonoma,Teen Mothers (15 years old to 19 years old),192
+1344,2014,Sonoma,Typical Aged Mothers (20 years old to 34 years old),3608
+1345,2014,Stanislaus,Total Births,7403
+1346,2014,Stanislaus,Older Mothers (35 years old or older),976
+1347,2014,Stanislaus,Teen Mothers (15 years old to 19 years old),565
+1348,2014,Stanislaus,Typical Aged Mothers (20 years old to 34 years old),5860
+1349,2014,Sutter,Total Births,1286
+1350,2014,Sutter,Older Mothers (35 years old or older),145
+1351,2014,Sutter,Teen Mothers (15 years old to 19 years old),78
+1352,2014,Sutter,Typical Aged Mothers (20 years old to 34 years old),1063
+1353,2014,Tehama,Total Births,718
+1354,2014,Tehama,Older Mothers (35 years old or older),64
+1355,2014,Tehama,Teen Mothers (15 years old to 19 years old),70
+1356,2014,Tehama,Typical Aged Mothers (20 years old to 34 years old),584
+1357,2014,Tulare,Total Births,7504
+1358,2014,Tulare,Older Mothers (35 years old or older),900
+1359,2014,Tulare,Teen Mothers (15 years old to 19 years old),730
+1360,2014,Tulare,Typical Aged Mothers (20 years old to 34 years old),5864
+1361,2014,Ventura,Total Births,10062
+1362,2014,Ventura,Older Mothers (35 years old or older),1974
+1363,2014,Ventura,Teen Mothers (15 years old to 19 years old),565
+1364,2014,Ventura,Typical Aged Mothers (20 years old to 34 years old),7521
+1365,2014,Yolo,Total Births,2287
+1366,2014,Yolo,Older Mothers (35 years old or older),470
+1367,2014,Yolo,Teen Mothers (15 years old to 19 years old),105
+1368,2014,Yolo,Typical Aged Mothers (20 years old to 34 years old),1712
+1369,2014,Yuba,Total Births,1152
+1370,2014,Yuba,Older Mothers (35 years old or older),128
+1371,2014,Yuba,Teen Mothers (15 years old to 19 years old),73
+1372,2014,Yuba,Typical Aged Mothers (20 years old to 34 years old),951
+1373,2015,Alameda,Total Births,18648
+1374,2015,Alameda,Older Mothers (35 years old or older),4974
+1375,2015,Alameda,Teen Mothers (15 years old to 19 years old),508
+1376,2015,Alameda,Typical Aged Mothers (20 years old to 34 years old),13161
+1377,2015,Butte,Total Births,2367
+1378,2015,Butte,Older Mothers (35 years old or older),269
+1379,2015,Butte,Teen Mothers (15 years old to 19 years old),150
+1380,2015,Butte,Typical Aged Mothers (20 years old to 34 years old),1947
+1381,2015,Calaveras,Total Births,352
+1382,2015,Calaveras,Older Mothers (35 years old or older),45
+1383,2015,Calaveras,Teen Mothers (15 years old to 19 years old),17
+1384,2015,Calaveras,Typical Aged Mothers (20 years old to 34 years old),290
+1385,2015,Colusa,Total Births,292
+1386,2015,Colusa,Older Mothers (35 years old or older),36
+1387,2015,Colusa,Teen Mothers (15 years old to 19 years old),27
+1388,2015,Colusa,Typical Aged Mothers (20 years old to 34 years old),229
+1389,2015,Contra Costa,Total Births,12139
+1390,2015,Contra Costa,Older Mothers (35 years old or older),3100
+1391,2015,Contra Costa,Teen Mothers (15 years old to 19 years old),384
+1392,2015,Contra Costa,Typical Aged Mothers (20 years old to 34 years old),8651
+1393,2015,Del Norte,Total Births,273
+1394,2015,Del Norte,Older Mothers (35 years old or older),24
+1395,2015,Del Norte,Teen Mothers (15 years old to 19 years old),37
+1396,2015,Del Norte,Typical Aged Mothers (20 years old to 34 years old),211
+1397,2015,El Dorado,Total Births,1483
+1398,2015,El Dorado,Older Mothers (35 years old or older),296
+1399,2015,El Dorado,Teen Mothers (15 years old to 19 years old),46
+1400,2015,El Dorado,Typical Aged Mothers (20 years old to 34 years old),1140
+1401,2015,Fresno,Total Births,15138
+1402,2015,Fresno,Older Mothers (35 years old or older),2191
+1403,2015,Fresno,Teen Mothers (15 years old to 19 years old),1165
+1404,2015,Fresno,Typical Aged Mothers (20 years old to 34 years old),11772
+1405,2015,Glenn,Total Births,364
+1406,2015,Glenn,Older Mothers (35 years old or older),55
+1407,2015,Glenn,Teen Mothers (15 years old to 19 years old),27
+1408,2015,Glenn,Typical Aged Mothers (20 years old to 34 years old),282
+1409,2015,Humboldt,Total Births,1367
+1410,2015,Humboldt,Older Mothers (35 years old or older),237
+1411,2015,Humboldt,Teen Mothers (15 years old to 19 years old),64
+1412,2015,Humboldt,Typical Aged Mothers (20 years old to 34 years old),1066
+1413,2015,Imperial,Total Births,2955
+1414,2015,Imperial,Older Mothers (35 years old or older),353
+1415,2015,Imperial,Teen Mothers (15 years old to 19 years old),250
+1416,2015,Imperial,Typical Aged Mothers (20 years old to 34 years old),2349
+1417,2015,Inyo,Total Births,201
+1418,2015,Inyo,Older Mothers (35 years old or older),23
+1419,2015,Inyo,Teen Mothers (15 years old to 19 years old),15
+1420,2015,Inyo,Typical Aged Mothers (20 years old to 34 years old),163
+1421,2015,Kern,Total Births,13451
+1422,2015,Kern,Older Mothers (35 years old or older),1620
+1423,2015,Kern,Teen Mothers (15 years old to 19 years old),1189
+1424,2015,Kern,Typical Aged Mothers (20 years old to 34 years old),10627
+1425,2015,Kings,Total Births,2208
+1426,2015,Kings,Older Mothers (35 years old or older),267
+1427,2015,Kings,Teen Mothers (15 years old to 19 years old),190
+1428,2015,Kings,Typical Aged Mothers (20 years old to 34 years old),1751
+1429,2015,Lake,Total Births,687
+1430,2015,Lake,Older Mothers (35 years old or older),88
+1431,2015,Lake,Teen Mothers (15 years old to 19 years old),51
+1432,2015,Lake,Typical Aged Mothers (20 years old to 34 years old),548
+1433,2015,Lassen,Total Births,244
+1434,2015,Lassen,Older Mothers (35 years old or older),29
+1435,2015,Lassen,Teen Mothers (15 years old to 19 years old),18
+1436,2015,Lassen,Typical Aged Mothers (20 years old to 34 years old),196
+1437,2015,Los Angeles,Total Births,121182
+1438,2015,Los Angeles,Older Mothers (35 years old or older),28025
+1439,2015,Los Angeles,Teen Mothers (15 years old to 19 years old),5947
+1440,2015,Los Angeles,Typical Aged Mothers (20 years old to 34 years old),87156
+1441,2015,Madera,Total Births,2180
+1442,2015,Madera,Older Mothers (35 years old or older),315
+1443,2015,Madera,Teen Mothers (15 years old to 19 years old),196
+1444,2015,Madera,Typical Aged Mothers (20 years old to 34 years old),1667
+1445,2015,Marin,Total Births,2190
+1446,2015,Marin,Older Mothers (35 years old or older),820
+1447,2015,Marin,Teen Mothers (15 years old to 19 years old),43
+1448,2015,Marin,Typical Aged Mothers (20 years old to 34 years old),1327
+1449,2015,Mendocino,Total Births,983
+1450,2015,Mendocino,Older Mothers (35 years old or older),153
+1451,2015,Mendocino,Teen Mothers (15 years old to 19 years old),60
+1452,2015,Mendocino,Typical Aged Mothers (20 years old to 34 years old),770
+1453,2015,Merced,Total Births,4015
+1454,2015,Merced,Older Mothers (35 years old or older),564
+1455,2015,Merced,Teen Mothers (15 years old to 19 years old),325
+1456,2015,Merced,Typical Aged Mothers (20 years old to 34 years old),3122
+1457,2015,Monterey,Total Births,6076
+1458,2015,Monterey,Older Mothers (35 years old or older),989
+1459,2015,Monterey,Teen Mothers (15 years old to 19 years old),440
+1460,2015,Monterey,Typical Aged Mothers (20 years old to 34 years old),4642
+1461,2015,Napa,Total Births,1412
+1462,2015,Napa,Older Mothers (35 years old or older),321
+1463,2015,Napa,Teen Mothers (15 years old to 19 years old),65
+1464,2015,Napa,Typical Aged Mothers (20 years old to 34 years old),1025
+1465,2015,Nevada,Total Births,734
+1466,2015,Nevada,Older Mothers (35 years old or older),160
+1467,2015,Nevada,Teen Mothers (15 years old to 19 years old),29
+1468,2015,Nevada,Typical Aged Mothers (20 years old to 34 years old),545
+1469,2015,Orange,Total Births,36589
+1470,2015,Orange,Older Mothers (35 years old or older),9009
+1471,2015,Orange,Teen Mothers (15 years old to 19 years old),1367
+1472,2015,Orange,Typical Aged Mothers (20 years old to 34 years old),26196
+1473,2015,Placer,Total Births,3481
+1474,2015,Placer,Older Mothers (35 years old or older),778
+1475,2015,Placer,Teen Mothers (15 years old to 19 years old),92
+1476,2015,Placer,Typical Aged Mothers (20 years old to 34 years old),2610
+1477,2015,Riverside,Total Births,29542
+1478,2015,Riverside,Older Mothers (35 years old or older),4632
+1479,2015,Riverside,Teen Mothers (15 years old to 19 years old),1879
+1480,2015,Riverside,Typical Aged Mothers (20 years old to 34 years old),23013
+1481,2015,Sacramento,Total Births,18830
+1482,2015,Sacramento,Older Mothers (35 years old or older),3229
+1483,2015,Sacramento,Teen Mothers (15 years old to 19 years old),881
+1484,2015,Sacramento,Typical Aged Mothers (20 years old to 34 years old),14713
+1485,2015,San Benito,Total Births,699
+1486,2015,San Benito,Older Mothers (35 years old or older),126
+1487,2015,San Benito,Teen Mothers (15 years old to 19 years old),43
+1488,2015,San Benito,Typical Aged Mothers (20 years old to 34 years old),530
+1489,2015,San Bernardino,Total Births,28821
+1490,2015,San Bernardino,Older Mothers (35 years old or older),4273
+1491,2015,San Bernardino,Teen Mothers (15 years old to 19 years old),1964
+1492,2015,San Bernardino,Typical Aged Mothers (20 years old to 34 years old),22562
+1493,2015,San Diego,Total Births,38129
+1494,2015,San Diego,Older Mothers (35 years old or older),8278
+1495,2015,San Diego,Teen Mothers (15 years old to 19 years old),1596
+1496,2015,San Diego,Typical Aged Mothers (20 years old to 34 years old),28242
+1497,2015,San Francisco,Total Births,8692
+1498,2015,San Francisco,Older Mothers (35 years old or older),3320
+1499,2015,San Francisco,Teen Mothers (15 years old to 19 years old),131
+1500,2015,San Francisco,Typical Aged Mothers (20 years old to 34 years old),5241
+1501,2015,San Joaquin,Total Births,9796
+1502,2015,San Joaquin,Older Mothers (35 years old or older),1511
+1503,2015,San Joaquin,Teen Mothers (15 years old to 19 years old),603
+1504,2015,San Joaquin,Typical Aged Mothers (20 years old to 34 years old),7677
+1505,2015,San Luis Obispo,Total Births,2530
+1506,2015,San Luis Obispo,Older Mothers (35 years old or older),465
+1507,2015,San Luis Obispo,Teen Mothers (15 years old to 19 years old),123
+1508,2015,San Luis Obispo,Typical Aged Mothers (20 years old to 34 years old),1941
+1509,2015,San Mateo,Total Births,8241
+1510,2015,San Mateo,Older Mothers (35 years old or older),2718
+1511,2015,San Mateo,Teen Mothers (15 years old to 19 years old),162
+1512,2015,San Mateo,Typical Aged Mothers (20 years old to 34 years old),5356
+1513,2015,Santa Barbara,Total Births,5483
+1514,2015,Santa Barbara,Older Mothers (35 years old or older),1000
+1515,2015,Santa Barbara,Teen Mothers (15 years old to 19 years old),372
+1516,2015,Santa Barbara,Typical Aged Mothers (20 years old to 34 years old),4106
+1517,2015,Santa Clara,Total Births,23210
+1518,2015,Santa Clara,Older Mothers (35 years old or older),6143
+1519,2015,Santa Clara,Teen Mothers (15 years old to 19 years old),662
+1520,2015,Santa Clara,Typical Aged Mothers (20 years old to 34 years old),16400
+1521,2015,Santa Cruz,Total Births,2881
+1522,2015,Santa Cruz,Older Mothers (35 years old or older),694
+1523,2015,Santa Cruz,Teen Mothers (15 years old to 19 years old),152
+1524,2015,Santa Cruz,Typical Aged Mothers (20 years old to 34 years old),2035
+1525,2015,Shasta,Total Births,2011
+1526,2015,Shasta,Older Mothers (35 years old or older),253
+1527,2015,Shasta,Teen Mothers (15 years old to 19 years old),135
+1528,2015,Shasta,Typical Aged Mothers (20 years old to 34 years old),1622
+1529,2015,Siskiyou,Total Births,360
+1530,2015,Siskiyou,Older Mothers (35 years old or older),46
+1531,2015,Siskiyou,Teen Mothers (15 years old to 19 years old),22
+1532,2015,Siskiyou,Typical Aged Mothers (20 years old to 34 years old),292
+1533,2015,Solano,Total Births,4573
+1534,2015,Solano,Older Mothers (35 years old or older),811
+1535,2015,Solano,Teen Mothers (15 years old to 19 years old),198
+1536,2015,Solano,Typical Aged Mothers (20 years old to 34 years old),3563
+1537,2015,Sonoma,Total Births,4710
+1538,2015,Sonoma,Older Mothers (35 years old or older),1093
+1539,2015,Sonoma,Teen Mothers (15 years old to 19 years old),156
+1540,2015,Sonoma,Typical Aged Mothers (20 years old to 34 years old),3460
+1541,2015,Stanislaus,Total Births,7568
+1542,2015,Stanislaus,Older Mothers (35 years old or older),1059
+1543,2015,Stanislaus,Teen Mothers (15 years old to 19 years old),508
+1544,2015,Stanislaus,Typical Aged Mothers (20 years old to 34 years old),5996
+1545,2015,Sutter,Total Births,1245
+1546,2015,Sutter,Older Mothers (35 years old or older),175
+1547,2015,Sutter,Teen Mothers (15 years old to 19 years old),73
+1548,2015,Sutter,Typical Aged Mothers (20 years old to 34 years old),997
+1549,2015,Tehama,Total Births,755
+1550,2015,Tehama,Older Mothers (35 years old or older),86
+1551,2015,Tehama,Teen Mothers (15 years old to 19 years old),64
+1552,2015,Tehama,Typical Aged Mothers (20 years old to 34 years old),602
+1553,2015,Tulare,Total Births,7253
+1554,2015,Tulare,Older Mothers (35 years old or older),918
+1555,2015,Tulare,Teen Mothers (15 years old to 19 years old),624
+1556,2015,Tulare,Typical Aged Mothers (20 years old to 34 years old),5707
+1557,2015,Ventura,Total Births,9744
+1558,2015,Ventura,Older Mothers (35 years old or older),2037
+1559,2015,Ventura,Teen Mothers (15 years old to 19 years old),480
+1560,2015,Ventura,Typical Aged Mothers (20 years old to 34 years old),7224
+1561,2015,Yolo,Total Births,2309
+1562,2015,Yolo,Older Mothers (35 years old or older),465
+1563,2015,Yolo,Teen Mothers (15 years old to 19 years old),99
+1564,2015,Yolo,Typical Aged Mothers (20 years old to 34 years old),1745
+1565,2015,Yuba,Total Births,1099
+1566,2015,Yuba,Older Mothers (35 years old or older),129
+1567,2015,Yuba,Teen Mothers (15 years old to 19 years old),77
+1568,2015,Yuba,Typical Aged Mothers (20 years old to 34 years old),893
+1569,2016,Alameda,Total Births,18728
+1570,2016,Alameda,Older Mothers (35 years old or older),5183
+1571,2016,Alameda,Teen Mothers (15 years old to 19 years old),395
+1572,2016,Alameda,Typical Aged Mothers (20 years old to 34 years old),13147
+1573,2016,Butte,Total Births,2422
+1574,2016,Butte,Older Mothers (35 years old or older),357
+1575,2016,Butte,Teen Mothers (15 years old to 19 years old),115
+1576,2016,Butte,Typical Aged Mothers (20 years old to 34 years old),1948
+1577,2016,Calaveras,Total Births,353
+1578,2016,Calaveras,Older Mothers (35 years old or older),49
+1579,2016,Calaveras,Teen Mothers (15 years old to 19 years old),15
+1580,2016,Calaveras,Typical Aged Mothers (20 years old to 34 years old),289
+1581,2016,Colusa,Total Births,318
+1582,2016,Colusa,Older Mothers (35 years old or older),48
+1583,2016,Colusa,Teen Mothers (15 years old to 19 years old),17
+1584,2016,Colusa,Typical Aged Mothers (20 years old to 34 years old),253
+1585,2016,Contra Costa,Total Births,11930
+1586,2016,Contra Costa,Older Mothers (35 years old or older),3092
+1587,2016,Contra Costa,Teen Mothers (15 years old to 19 years old),337
+1588,2016,Contra Costa,Typical Aged Mothers (20 years old to 34 years old),8494
+1589,2016,Del Norte,Total Births,274
+1590,2016,Del Norte,Older Mothers (35 years old or older),25
+1591,2016,Del Norte,Teen Mothers (15 years old to 19 years old),25
+1592,2016,Del Norte,Typical Aged Mothers (20 years old to 34 years old),222
+1593,2016,El Dorado,Total Births,1508
+1594,2016,El Dorado,Older Mothers (35 years old or older),320
+1595,2016,El Dorado,Teen Mothers (15 years old to 19 years old),46
+1596,2016,El Dorado,Typical Aged Mothers (20 years old to 34 years old),1141
+1597,2016,Fresno,Total Births,14872
+1598,2016,Fresno,Older Mothers (35 years old or older),2109
+1599,2016,Fresno,Teen Mothers (15 years old to 19 years old),1089
+1600,2016,Fresno,Typical Aged Mothers (20 years old to 34 years old),11664
+1601,2016,Glenn,Total Births,376
+1602,2016,Glenn,Older Mothers (35 years old or older),55
+1603,2016,Glenn,Teen Mothers (15 years old to 19 years old),23
+1604,2016,Glenn,Typical Aged Mothers (20 years old to 34 years old),298
+1605,2016,Humboldt,Total Births,1374
+1606,2016,Humboldt,Older Mothers (35 years old or older),251
+1607,2016,Humboldt,Teen Mothers (15 years old to 19 years old),61
+1608,2016,Humboldt,Typical Aged Mothers (20 years old to 34 years old),1062
+1609,2016,Imperial,Total Births,2817
+1610,2016,Imperial,Older Mothers (35 years old or older),384
+1611,2016,Imperial,Teen Mothers (15 years old to 19 years old),194
+1612,2016,Imperial,Typical Aged Mothers (20 years old to 34 years old),2239
+1613,2016,Inyo,Total Births,180
+1614,2016,Inyo,Older Mothers (35 years old or older),31
+1615,2016,Inyo,Teen Mothers (15 years old to 19 years old),17
+1616,2016,Inyo,Typical Aged Mothers (20 years old to 34 years old),132
+1617,2016,Kern,Total Births,13365
+1618,2016,Kern,Older Mothers (35 years old or older),1699
+1619,2016,Kern,Teen Mothers (15 years old to 19 years old),1097
+1620,2016,Kern,Typical Aged Mothers (20 years old to 34 years old),10560
+1621,2016,Kings,Total Births,1865
+1622,2016,Kings,Older Mothers (35 years old or older),201
+1623,2016,Kings,Teen Mothers (15 years old to 19 years old),138
+1624,2016,Kings,Typical Aged Mothers (20 years old to 34 years old),1526
+1625,2016,Lake,Total Births,701
+1626,2016,Lake,Older Mothers (35 years old or older),84
+1627,2016,Lake,Teen Mothers (15 years old to 19 years old),46
+1628,2016,Lake,Typical Aged Mothers (20 years old to 34 years old),569
+1629,2016,Lassen,Total Births,253
+1630,2016,Lassen,Older Mothers (35 years old or older),31
+1631,2016,Lassen,Teen Mothers (15 years old to 19 years old),15
+1632,2016,Lassen,Typical Aged Mothers (20 years old to 34 years old),207
+1633,2016,Los Angeles,Total Births,119585
+1634,2016,Los Angeles,Older Mothers (35 years old or older),28416
+1635,2016,Los Angeles,Teen Mothers (15 years old to 19 years old),5221
+1636,2016,Los Angeles,Typical Aged Mothers (20 years old to 34 years old),85892
+1637,2016,Madera,Total Births,2278
+1638,2016,Madera,Older Mothers (35 years old or older),322
+1639,2016,Madera,Teen Mothers (15 years old to 19 years old),175
+1640,2016,Madera,Typical Aged Mothers (20 years old to 34 years old),1779
+1641,2016,Marin,Total Births,2157
+1642,2016,Marin,Older Mothers (35 years old or older),900
+1643,2016,Marin,Teen Mothers (15 years old to 19 years old),61
+1644,2016,Marin,Typical Aged Mothers (20 years old to 34 years old),1196
+1645,2016,Mendocino,Total Births,942
+1646,2016,Mendocino,Older Mothers (35 years old or older),163
+1647,2016,Mendocino,Teen Mothers (15 years old to 19 years old),56
+1648,2016,Mendocino,Typical Aged Mothers (20 years old to 34 years old),723
+1649,2016,Merced,Total Births,4026
+1650,2016,Merced,Older Mothers (35 years old or older),543
+1651,2016,Merced,Teen Mothers (15 years old to 19 years old),316
+1652,2016,Merced,Typical Aged Mothers (20 years old to 34 years old),3163
+1653,2016,Monterey,Total Births,5868
+1654,2016,Monterey,Older Mothers (35 years old or older),1056
+1655,2016,Monterey,Teen Mothers (15 years old to 19 years old),381
+1656,2016,Monterey,Typical Aged Mothers (20 years old to 34 years old),4427
+1657,2016,Napa,Total Births,1329
+1658,2016,Napa,Older Mothers (35 years old or older),345
+1659,2016,Napa,Teen Mothers (15 years old to 19 years old),52
+1660,2016,Napa,Typical Aged Mothers (20 years old to 34 years old),932
+1661,2016,Nevada,Total Births,659
+1662,2016,Nevada,Older Mothers (35 years old or older),140
+1663,2016,Nevada,Teen Mothers (15 years old to 19 years old),23
+1664,2016,Nevada,Typical Aged Mothers (20 years old to 34 years old),496
+1665,2016,Orange,Total Births,37113
+1666,2016,Orange,Older Mothers (35 years old or older),9674
+1667,2016,Orange,Teen Mothers (15 years old to 19 years old),1214
+1668,2016,Orange,Typical Aged Mothers (20 years old to 34 years old),26216
+1669,2016,Placer,Total Births,3603
+1670,2016,Placer,Older Mothers (35 years old or older),811
+1671,2016,Placer,Teen Mothers (15 years old to 19 years old),93
+1672,2016,Placer,Typical Aged Mothers (20 years old to 34 years old),2699
+1673,2016,Riverside,Total Births,29541
+1674,2016,Riverside,Older Mothers (35 years old or older),4791
+1675,2016,Riverside,Teen Mothers (15 years old to 19 years old),1554
+1676,2016,Riverside,Typical Aged Mothers (20 years old to 34 years old),23181
+1677,2016,Sacramento,Total Births,18961
+1678,2016,Sacramento,Older Mothers (35 years old or older),3479
+1679,2016,Sacramento,Teen Mothers (15 years old to 19 years old),756
+1680,2016,Sacramento,Typical Aged Mothers (20 years old to 34 years old),14722
+1681,2016,San Benito,Total Births,732
+1682,2016,San Benito,Older Mothers (35 years old or older),130
+1683,2016,San Benito,Teen Mothers (15 years old to 19 years old),31
+1684,2016,San Benito,Typical Aged Mothers (20 years old to 34 years old),570
+1685,2016,San Bernardino,Total Births,29444
+1686,2016,San Bernardino,Older Mothers (35 years old or older),4594
+1687,2016,San Bernardino,Teen Mothers (15 years old to 19 years old),1760
+1688,2016,San Bernardino,Typical Aged Mothers (20 years old to 34 years old),23072
+1689,2016,San Diego,Total Births,36954
+1690,2016,San Diego,Older Mothers (35 years old or older),8309
+1691,2016,San Diego,Teen Mothers (15 years old to 19 years old),1336
+1692,2016,San Diego,Typical Aged Mothers (20 years old to 34 years old),27301
+1693,2016,San Francisco,Total Births,8651
+1694,2016,San Francisco,Older Mothers (35 years old or older),3392
+1695,2016,San Francisco,Teen Mothers (15 years old to 19 years old),119
+1696,2016,San Francisco,Typical Aged Mothers (20 years old to 34 years old),5139
+1697,2016,San Joaquin,Total Births,10072
+1698,2016,San Joaquin,Older Mothers (35 years old or older),1624
+1699,2016,San Joaquin,Teen Mothers (15 years old to 19 years old),566
+1700,2016,San Joaquin,Typical Aged Mothers (20 years old to 34 years old),7880
+1701,2016,San Luis Obispo,Total Births,2460
+1702,2016,San Luis Obispo,Older Mothers (35 years old or older),451
+1703,2016,San Luis Obispo,Teen Mothers (15 years old to 19 years old),109
+1704,2016,San Luis Obispo,Typical Aged Mothers (20 years old to 34 years old),1900
+1705,2016,San Mateo,Total Births,8085
+1706,2016,San Mateo,Older Mothers (35 years old or older),2774
+1707,2016,San Mateo,Teen Mothers (15 years old to 19 years old),155
+1708,2016,San Mateo,Typical Aged Mothers (20 years old to 34 years old),5154
+1709,2016,Santa Barbara,Total Births,5266
+1710,2016,Santa Barbara,Older Mothers (35 years old or older),1000
+1711,2016,Santa Barbara,Teen Mothers (15 years old to 19 years old),312
+1712,2016,Santa Barbara,Typical Aged Mothers (20 years old to 34 years old),3947
+1713,2016,Santa Clara,Total Births,22588
+1714,2016,Santa Clara,Older Mothers (35 years old or older),6195
+1715,2016,Santa Clara,Teen Mothers (15 years old to 19 years old),567
+1716,2016,Santa Clara,Typical Aged Mothers (20 years old to 34 years old),15816
+1717,2016,Santa Cruz,Total Births,2876
+1718,2016,Santa Cruz,Older Mothers (35 years old or older),733
+1719,2016,Santa Cruz,Teen Mothers (15 years old to 19 years old),143
+1720,2016,Santa Cruz,Typical Aged Mothers (20 years old to 34 years old),2000
+1721,2016,Shasta,Total Births,1977
+1722,2016,Shasta,Older Mothers (35 years old or older),245
+1723,2016,Shasta,Teen Mothers (15 years old to 19 years old),101
+1724,2016,Shasta,Typical Aged Mothers (20 years old to 34 years old),1630
+1725,2016,Siskiyou,Total Births,341
+1726,2016,Siskiyou,Older Mothers (35 years old or older),35
+1727,2016,Siskiyou,Teen Mothers (15 years old to 19 years old),15
+1728,2016,Siskiyou,Typical Aged Mothers (20 years old to 34 years old),290
+1729,2016,Solano,Total Births,4780
+1730,2016,Solano,Older Mothers (35 years old or older),946
+1731,2016,Solano,Teen Mothers (15 years old to 19 years old),186
+1732,2016,Solano,Typical Aged Mothers (20 years old to 34 years old),3647
+1733,2016,Sonoma,Total Births,4646
+1734,2016,Sonoma,Older Mothers (35 years old or older),1049
+1735,2016,Sonoma,Teen Mothers (15 years old to 19 years old),166
+1736,2016,Sonoma,Typical Aged Mothers (20 years old to 34 years old),3431
+1737,2016,Stanislaus,Total Births,7678
+1738,2016,Stanislaus,Older Mothers (35 years old or older),1081
+1739,2016,Stanislaus,Teen Mothers (15 years old to 19 years old),494
+1740,2016,Stanislaus,Typical Aged Mothers (20 years old to 34 years old),6098
+1741,2016,Sutter,Total Births,1336
+1742,2016,Sutter,Older Mothers (35 years old or older),165
+1743,2016,Sutter,Teen Mothers (15 years old to 19 years old),71
+1744,2016,Sutter,Typical Aged Mothers (20 years old to 34 years old),1100
+1745,2016,Tehama,Total Births,730
+1746,2016,Tehama,Older Mothers (35 years old or older),63
+1747,2016,Tehama,Teen Mothers (15 years old to 19 years old),50
+1748,2016,Tehama,Typical Aged Mothers (20 years old to 34 years old),617
+1749,2016,Tulare,Total Births,6965
+1750,2016,Tulare,Older Mothers (35 years old or older),917
+1751,2016,Tulare,Teen Mothers (15 years old to 19 years old),599
+1752,2016,Tulare,Typical Aged Mothers (20 years old to 34 years old),5447
+1753,2016,Ventura,Total Births,9260
+1754,2016,Ventura,Older Mothers (35 years old or older),1916
+1755,2016,Ventura,Teen Mothers (15 years old to 19 years old),412
+1756,2016,Ventura,Typical Aged Mothers (20 years old to 34 years old),6930
+1757,2016,Yolo,Total Births,2343
+1758,2016,Yolo,Older Mothers (35 years old or older),515
+1759,2016,Yolo,Teen Mothers (15 years old to 19 years old),81
+1760,2016,Yolo,Typical Aged Mothers (20 years old to 34 years old),1747
+1761,2016,Yuba,Total Births,1210
+1762,2016,Yuba,Older Mothers (35 years old or older),130
+1763,2016,Yuba,Teen Mothers (15 years old to 19 years old),78
+1764,2016,Yuba,Typical Aged Mothers (20 years old to 34 years old),1001
